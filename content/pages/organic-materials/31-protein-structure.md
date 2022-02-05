@@ -11,11 +11,54 @@ uid: 4e61d15e-9ac5-67d9-af48-23d7beaa16b7
 Session Overview
 ----------------
 
-| **Modules** | Organic Materials |
-| **Concepts** | primary, secondary, and tertiary protein structures; protein synthesis |
-| **Keywords** | zwitterion, protonation, deprotonation, titratable, electrophoresis, isoelectric point (pI), isoelectric focusing (IEF), protein synthesis, macromolecule, condensation reaction, peptide bond, disulfide bond, kilopeptide, primary structure, protein sequence, secondary structure, tertiary structure, alpha helix, beta pleated sheet, residue, substituent, conformation, hydrophobic, hydrophilic |
-| **Chemical Substances** | nylon, polyamides, insulin |
-| **Applications** | DNA analysis with electrophoresis gel, laundry detergent 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+primary, secondary, and tertiary protein structures; protein synthesis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+zwitterion, protonation, deprotonation, titratable, electrophoresis, isoelectric point (pI), isoelectric focusing (IEF), protein synthesis, macromolecule, condensation reaction, peptide bond, disulfide bond, kilopeptide, primary structure, protein sequence, secondary structure, tertiary structure, alpha helix, beta pleated sheet, residue, substituent, conformation, hydrophobic, hydrophilic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+nylon, polyamides, insulin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+DNA analysis with electrophoresis gel, laundry detergent
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -41,9 +84,30 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 17-6 through 17-12 in Chapter 17, "Amino Acids, Peptides, and Proteins." | Peptide and disulfide bonds; overview of protein structure; primary, secondary, tertiary, and quaternary structures; protein denaturation 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 17-6 through 17-12 in Chapter 17, "Amino Acids, Peptides, and Proteins."
+{{< tdclose >}}
+{{< tdopen >}}
+Peptide and disulfide bonds; overview of protein structure; primary, secondary, tertiary, and quaternary structures; protein denaturation
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -76,9 +140,56 @@ For Further Study
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011) | MIT OpenCourseWare | Undergraduate (first-year) | See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry) |
-| [7.343 Protein Folding, Misfolding and Human Disease](/courses/7-343-when-development-goes-awry-how-cancer-co-opts-mechanisms-of-embryogensis-fall-2009) | MIT OpenCourseWare | Undergraduate (elective) | Seminar on some biological implications of protein tertiary structure 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[7.343 Protein Folding, Misfolding and Human Disease](/courses/7-343-when-development-goes-awry-how-cancer-co-opts-mechanisms-of-embryogensis-fall-2009)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective)
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar on some biological implications of protein tertiary structure
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/organic-materials/30-amino-acids) | [Next]({{< baseurl >}}/pages/organic-materials/32-lipids-nucleic-acids-dna) »

@@ -11,11 +11,54 @@ uid: d1c5400e-ad6e-5796-fde9-b0ebffa63afd
 Session Overview
 ----------------
 
-| **Modules** | Organic Materials |
-| **Concepts** | organic chemistry nomenclature, chains, alkanes, alkenes, alkynes, aromatics, functional groups, isomers |
-| **Keywords** | hydrocarbon, radical, sp3 orbital, sp2 orbital, sp orbital, straight chain, branched chain, saturated hydrocarbon, unsaturated hydrocarbon, methylated, conformational isomer, constitutional isomer, stereoisomer, aromatic compound, resonant hybrid structure, combustion, conductivity, IUPAC |
-| **Chemical Substances** | carbon (C), hydrogen (H), isomers of C4H10 (butane, isobutene, 2-methyl propane), methylene radical, ethyl radical, ethyl alcohol, ethylene (aka ethane); butane (C4H8), cis-2-butene, trans-2-butene, propene, propylene, allyl, acetylene, benzene; 1,3 butadiene; gasoline |
-| **Applications** | gasoline automobile engine knocking, octane rating 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+organic chemistry nomenclature, chains, alkanes, alkenes, alkynes, aromatics, functional groups, isomers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+hydrocarbon, radical, sp3 orbital, sp2 orbital, sp orbital, straight chain, branched chain, saturated hydrocarbon, unsaturated hydrocarbon, methylated, conformational isomer, constitutional isomer, stereoisomer, aromatic compound, resonant hybrid structure, combustion, conductivity, IUPAC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+carbon (C), hydrogen (H), isomers of C4H10 (butane, isobutene, 2-methyl propane), methylene radical, ethyl radical, ethyl alcohol, ethylene (aka ethane); butane (C4H8), cis-2-butene, trans-2-butene, propene, propylene, allyl, acetylene, benzene; 1,3 butadiene; gasoline
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+gasoline automobile engine knocking, octane rating
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -42,10 +85,39 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-01-functional-groups-and-classes-.html) 24.1, "Functional Groups and Classes of Organic Compounds." | Overview of five organic compound families: hydrocarbons, halogen-containing, oxygen-containing, carboxylic acid derivatives, and nitrogen-containing; common nomenclature |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-02-isomers-of-organic-compounds.html) 24.2, "Isomers of Organic Compounds." | Conformational isomers, structural isomers, stereoisomers 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-01-functional-groups-and-classes-.html) 24.1, "Functional Groups and Classes of Organic Compounds."
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of five organic compound families: hydrocarbons, halogen-containing, oxygen-containing, carboxylic acid derivatives, and nitrogen-containing; common nomenclature
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-02-isomers-of-organic-compounds.html) 24.2, "Isomers of Organic Compounds."
+{{< tdclose >}}
+{{< tdopen >}}
+Conformational isomers, structural isomers, stereoisomers
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -85,8 +157,41 @@ As a single-session overview of organic chemistry, this class has limited scope.
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.12 Organic Chemistry I](/courses/5-12-organic-chemistry-i-spring-2005) | MIT OpenCourseWare | Undergraduate (second-year) | The first of a two-semester sequence on organic chemistry, taken after 3.091 or equivalent 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.12 Organic Chemistry I](/courses/5-12-organic-chemistry-i-spring-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (second-year)
+{{< tdclose >}}
+{{< tdopen >}}
+The first of a two-semester sequence on organic chemistry, taken after 3.091 or equivalent
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/aqueous-solutions/self-assessment-aqueous-solutions) | [Next]({{< baseurl >}}/pages/organic-materials/28-polymers-structure-composition) »

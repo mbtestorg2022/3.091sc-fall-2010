@@ -11,11 +11,54 @@ uid: ab1dea66-95b4-5d1a-3cc8-9fa06d9ba941
 Session Overview
 ----------------
 
-| **Modules** | Organic Materials |
-| **Concepts** | polymer synthesis by addition and condensation, polymer structure-property relationships, social and culture implications of polymers |
-| **Keywords** | plastics, addition polymerization, radical, condensation polymerization, amide bond, carbonyl group, electrical insulator, thermoplastic, thermoset, crystallization zone, Wallace Carothers, glass transition temperature, recycling, design for environment (DFE) |
-| **Chemical Substances** | polyester, poly(ethylene terephthalate) (PET), silicone, nylon, polyurethane, norbornene, isoprene, Bakelite |
-| **Applications** | polypropylene in lithium ion batteries, soda bottles and fabrics, electrical insulators, recycling and packaging 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+polymer synthesis by addition and condensation, polymer structure-property relationships, social and culture implications of polymers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+plastics, addition polymerization, radical, condensation polymerization, amide bond, carbonyl group, electrical insulator, thermoplastic, thermoset, crystallization zone, Wallace Carothers, glass transition temperature, recycling, design for environment (DFE)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+polyester, poly(ethylene terephthalate) (PET), silicone, nylon, polyurethane, norbornene, isoprene, Bakelite
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+polypropylene in lithium ion batteries, soda bottles and fabrics, electrical insulators, recycling and packaging
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -39,11 +82,48 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[PB-OC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-oc) 28, "Synthetic Polymers." | Addition and condensation synthesis; addition (chain growth) and condensation (step growth) polymers; stereochemistry; dienes and rubber; copolymers; structure-property relationships |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 13.1, "Polymerization." | Polymer form as it relates to synthesis; example of collagen |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 13.2, "Structural Features of Polymers." | Polymer structure as it relates to synthesis; example of rubber vulcanization 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[PB-OC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-oc) 28, "Synthetic Polymers."
+{{< tdclose >}}
+{{< tdopen >}}
+Addition and condensation synthesis; addition (chain growth) and condensation (step growth) polymers; stereochemistry; dienes and rubber; copolymers; structure-property relationships
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 13.1, "Polymerization."
+{{< tdclose >}}
+{{< tdopen >}}
+Polymer form as it relates to synthesis; example of collagen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 13.2, "Structural Features of Polymers."
+{{< tdclose >}}
+{{< tdopen >}}
+Polymer structure as it relates to synthesis; example of rubber vulcanization
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -109,13 +189,95 @@ _The Graduate_. Directed by M. Nichols. DVD. MGM, 1967.
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level |
-| --- | --- | --- |
-| [Polymer Basics](http://www.doitpoms.ac.uk/tlplib/polymerbasics/index.php), [The Glass Transition in Polymers](http://www.doitpoms.ac.uk/tlplib/glass-transition/index.php), [Crystallinity in Polymers](http://www.doitpoms.ac.uk/tlplib/polymers/index.php) | DoITPoMS | Undergraduate |
-| [3.063 Polymer Physics](/courses/3-063-polymer-physics-spring-2007) | MIT OpenCourseWare | Undergraduate (elective) |
-| [3.064 Polymer Engineering](/courses/3-064-polymer-engineering-fall-2003) | MIT OpenCourseWare | Undergraduate (elective) |
-| [10.467 Polymer Science Laboratory](/courses/10-467-polymer-science-laboratory-fall-2005) | MIT OpenCourseWare | Undergraduate (elective) / Graduate |
-| [10.569 Synthesis of Polymers](/courses/10-569-synthesis-of-polymers-fall-2006) | MIT OpenCourseWare | Graduate |
-| [Introduction to Polymers](http://openlearn.open.ac.uk/mod/oucontent/view.php?id=397829) | OpenUniversity UK | Masters 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Polymer Basics](http://www.doitpoms.ac.uk/tlplib/polymerbasics/index.php), [The Glass Transition in Polymers](http://www.doitpoms.ac.uk/tlplib/glass-transition/index.php), [Crystallinity in Polymers](http://www.doitpoms.ac.uk/tlplib/polymers/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[3.063 Polymer Physics](/courses/3-063-polymer-physics-spring-2007)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[3.064 Polymer Engineering](/courses/3-064-polymer-engineering-fall-2003)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[10.467 Polymer Science Laboratory](/courses/10-467-polymer-science-laboratory-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective) / Graduate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[10.569 Synthesis of Polymers](/courses/10-569-synthesis-of-polymers-fall-2006)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Introduction to Polymers](http://openlearn.open.ac.uk/mod/oucontent/view.php?id=397829)
+{{< tdclose >}}
+{{< tdopen >}}
+OpenUniversity UK
+{{< tdclose >}}
+{{< tdopen >}}
+Masters
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/organic-materials/28-polymers-structure-composition) | [Next]({{< baseurl >}}/pages/organic-materials/30-amino-acids) »

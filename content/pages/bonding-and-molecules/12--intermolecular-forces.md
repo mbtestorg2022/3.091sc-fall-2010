@@ -11,11 +11,54 @@ uid: 009937ee-55a4-84c8-160b-5248e1f70793
 Session Overview
 ----------------
 
-| **Modules** | Bonding and Molecules |
-| **Concepts** | secondary bonding, permanent and induced dipoles (London dispersion/van der Waals), hydrogen bonding, polarizability of molecules |
-| **Keywords** | permanent dipole, induced dipole, hydrogen bond, polarity, London dispersion, electronegativity, melting point, boiling point, intermolecular bond, solid, liquid, gas, van der Waals force, secondary bond, dipole moment, polarizability, state of aggregation, Fritz London, Johann van der Waals |
-| **Chemical Substances** | hydrochloric acid (HCl), argon (Ar), iodine (I2), methane (CH4), helium (He), propane (C3H8), octane (C8H18), eicosane (C20H42), hydrofluoric acid (HF), ammonia (NH3), water (H2O) |
-| **Applications** | liquid water supports life; methane sea on Titan; states of hydrocarbons at STP 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Bonding and Molecules
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+secondary bonding, permanent and induced dipoles (London dispersion/van der Waals), hydrogen bonding, polarizability of molecules
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+permanent dipole, induced dipole, hydrogen bond, polarity, London dispersion, electronegativity, melting point, boiling point, intermolecular bond, solid, liquid, gas, van der Waals force, secondary bond, dipole moment, polarizability, state of aggregation, Fritz London, Johann van der Waals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+hydrochloric acid (HCl), argon (Ar), iodine (I2), methane (CH4), helium (He), propane (C3H8), octane (C8H18), eicosane (C20H42), hydrofluoric acid (HF), ammonia (NH3), water (H2O)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+liquid water supports life; methane sea on Titan; states of hydrocarbons at STP
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -42,10 +85,39 @@ Reading
 
 [Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 4
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-02-intermolecular-forces.html) 11.2, "Intermolecular Forces." | Dipole-dipole interactions; London dispersion forces; hydrogen bonds |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 2.5, "The Secondary, or van der Waals, Bond." | Van der Waals bonding; permanent and induced dipoles; hydrogen bridge 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-02-intermolecular-forces.html) 11.2, "Intermolecular Forces."
+{{< tdclose >}}
+{{< tdopen >}}
+Dipole-dipole interactions; London dispersion forces; hydrogen bonds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 2.5, "The Secondary, or van der Waals, Bond."
+{{< tdclose >}}
+{{< tdopen >}}
+Van der Waals bonding; permanent and induced dipoles; hydrogen bridge
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -73,9 +145,36 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-02-intermolecular-forces.html) 11.2, "Intermolecular Forces." | 9, 11, 14, 20, 24 | none 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-02-intermolecular-forces.html) 11.2, "Intermolecular Forces."
+{{< tdclose >}}
+{{< tdopen >}}
+9, 11, 14, 20, 24
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -94,11 +193,92 @@ Israelachvili, Jacob. _Intermolecular and Surface Forces_. New York, NY: Academi
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Properties of Water](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/watercon.html#c1) | HyperPhysics: Chemistry | High school | &nbsp; |
-| [Intermolecular Forces - Grade 11](http://cnx.org/content/m35864/latest/) | Connexions | High school | &nbsp; |
-| [5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005) | MIT OpenCourseWare | Undergraduate (first-year) |  {{< br >}}{{< br >}} Start - 25:15 in [Lecture 16: Intermolecular Interactions](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-16-intermolecular-interactions) {{< br >}}{{< br >}} End - 38:15 in [Lecture 17: Polarizability](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-17-polarizability) {{< br >}}{{< br >}}  |
-| [7.012 Introduction to Biology](/courses/7-012-introduction-to-biology-fall-2004) | MIT OpenCourseWare | Undergraduate (first-year) | [Lecture 2: Biochemistry 1](/courses/7-012-introduction-to-biology-fall-2004/pages/video-lectures/lecture-2-biochemistry-1) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Properties of Water](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/watercon.html#c1)
+{{< tdclose >}}
+{{< tdopen >}}
+HyperPhysics: Chemistry
+{{< tdclose >}}
+{{< tdopen >}}
+High school
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Intermolecular Forces - Grade 11](http://cnx.org/content/m35864/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+High school
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Start - 25:15 in [Lecture 16: Intermolecular Interactions](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-16-intermolecular-interactions)
+
+End - 38:15 in [Lecture 17: Polarizability](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-17-polarizability)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[7.012 Introduction to Biology](/courses/7-012-introduction-to-biology-fall-2004)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 2: Biochemistry 1](/courses/7-012-introduction-to-biology-fall-2004/pages/video-lectures/lecture-2-biochemistry-1)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »

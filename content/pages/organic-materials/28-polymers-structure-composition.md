@@ -11,11 +11,54 @@ uid: f8c2db6d-2332-71ec-1747-b2c8369b532e
 Session Overview
 ----------------
 
-| **Modules** | Organic Materials |
-| **Concepts** | polymer architecture, polymer composition, backbone structure, polymer material properties, natural and synthetic polymers |
-| **Keywords** | macromolecule, -mer, monomer, polymerization index, ordered solid, disordered solid, Dalton (atomic mass unit), cooling curve, partial crystallization, homopolymer, copolymer, tacticity, stereoisomerism, isotactic, syndiotactic, atactic, conformality, covalent bridge, crosslinking, elastomer, disulfide bond |
-| **Chemical Substances** | polyethylene (PE), low density polyethelene (LDPE), high density polyethelene (LDPE), polyvinyl chloride (PVC), acrylonitrile butadiene styrene (ABS), natural rubber |
-| **Applications** | Manufactured products of the past 80-100 years, vulcanized rubber 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+polymer architecture, polymer composition, backbone structure, polymer material properties, natural and synthetic polymers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+macromolecule, -mer, monomer, polymerization index, ordered solid, disordered solid, Dalton (atomic mass unit), cooling curve, partial crystallization, homopolymer, copolymer, tacticity, stereoisomerism, isotactic, syndiotactic, atactic, conformality, covalent bridge, crosslinking, elastomer, disulfide bond
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+polyethylene (PE), low density polyethelene (LDPE), high density polyethelene (LDPE), polyvinyl chloride (PVC), acrylonitrile butadiene styrene (ABS), natural rubber
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+Manufactured products of the past 80-100 years, vulcanized rubber
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -40,9 +83,30 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids." | Overview of biological and synthetic polymers 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of biological and synthetic polymers
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -78,10 +142,48 @@ Homework
 
 ### Textbook Problems
 
-| \[saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-02-isomers-of-organic-compounds.html) 24.2, "Isomers of Organic Compounds." | 1, 3, 4, 5 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-05-common-classes-of-organic-comp.html) 24.5, "Common Classes of Organic Compounds." | 1, 4 | none 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-02-isomers-of-organic-compounds.html) 24.2, "Isomers of Organic Compounds."
+{{< tdclose >}}
+{{< tdopen >}}
+1, 3, 4, 5
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-05-common-classes-of-organic-comp.html) 24.5, "Common Classes of Organic Compounds."
+{{< tdclose >}}
+{{< tdopen >}}
+1, 4
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -92,8 +194,35 @@ The Beatles. "Polythene Pam." _Abbey Road_. Apple Records, 1969.
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level |
-| --- | --- | --- |
-| [Polymer Basics](http://www.doitpoms.ac.uk/tlplib/polymerbasics/index.php) | DoITPoMS | Undergraduate 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Polymer Basics](http://www.doitpoms.ac.uk/tlplib/polymerbasics/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/organic-materials/27-introduction-to-organic-chemistry) | [Next]({{< baseurl >}}/pages/organic-materials/29-polymers-synthesis-properties-applications) »

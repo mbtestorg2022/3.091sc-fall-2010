@@ -11,11 +11,58 @@ uid: 313524b4-840e-e388-74ee-c0ea90001bd5
 Session Overview
 ----------------
 
-| **Modules** | Structure of the Atom |
-| **Concepts** | Thomson's plum pudding model, Rutherford's model of the nucleus, Bohr's model of the hydrogen atom, Rutherford-Geiger-Marsden experiment, Planck-Einstein relationship, isotopes of hydrogen |
-| **Keywords** | lanthanides, actinides, electron, mass, J. J. Thomson, proton, electrical charge, amber, alpha particle, beta particle, ionization, conservation of mass, Johannes Geiger, Ernest Marsden, coulomb, Niels Bohr, Bohr model of hydrogen, energy quantization, orbital angular momentum, Planck-Einstein relationship, joule, Newtonian force, Coulombic force, Max Planck, photon, energy, frequency, Planck's constant, isotope, Henry Cavendish, Harold Urey, Ernest Rutherford, blackbody radiation |
-| **Chemical Substances** |  {{< br >}}{{< br >}} lanthanum (La), magnesium (Mg), chlorine (Cl), titanium (Ti), helium (He), hydrogen (H) {{< br >}}{{< br >}}  |
-| **Applications** | nuclear fission, nanotechnology 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of the Atom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+Thomson's plum pudding model, Rutherford's model of the nucleus, Bohr's model of the hydrogen atom, Rutherford-Geiger-Marsden experiment, Planck-Einstein relationship, isotopes of hydrogen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+lanthanides, actinides, electron, mass, J. J. Thomson, proton, electrical charge, amber, alpha particle, beta particle, ionization, conservation of mass, Johannes Geiger, Ernest Marsden, coulomb, Niels Bohr, Bohr model of hydrogen, energy quantization, orbital angular momentum, Planck-Einstein relationship, joule, Newtonian force, Coulombic force, Max Planck, photon, energy, frequency, Planck's constant, isotope, Henry Cavendish, Harold Urey, Ernest Rutherford, blackbody radiation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+lanthanum (La), magnesium (Mg), chlorine (Cl), titanium (Ti), helium (He), hydrogen (H)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+nuclear fission, nanotechnology
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -41,11 +88,48 @@ Reading
 
 [Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Sections 1-3
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-05-the-atom.html) 1.5, "The Atom." | The electron; radioactivity; the atomic model |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-02-the-quantization-of-energy.html) 6.2, "The Quantization of Energy." | Blackbody radiation; the photoelectric effect |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-03-atomic-spectra-and-models-of-t.html) 6.3, "Atomic Spectra and Models of the Atom." | Line spectra; the Bohr model; uses of emission and absorption spectra 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-05-the-atom.html) 1.5, "The Atom."
+{{< tdclose >}}
+{{< tdopen >}}
+The electron; radioactivity; the atomic model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-02-the-quantization-of-energy.html) 6.2, "The Quantization of Energy."
+{{< tdclose >}}
+{{< tdopen >}}
+Blackbody radiation; the photoelectric effect
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-03-atomic-spectra-and-models-of-t.html) 6.3, "Atomic Spectra and Models of the Atom."
+{{< tdclose >}}
+{{< tdopen >}}
+Line spectra; the Bohr model; uses of emission and absorption spectra
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -87,12 +171,72 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-05-the-atom.html) 1.5, "The Atom." | none | 4 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses." | none | 10 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-01-waves-and-electromagnetic-radi.html) 6.1, "Waves and Electromagnetic Energy." | none | 8 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-02-the-quantization-of-energy.html) 6.2, "The Quantization of Energy." | none | 3, 6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-05-the-atom.html) 1.5, "The Atom."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-01-waves-and-electromagnetic-radi.html) 6.1, "Waves and Electromagnetic Energy."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-02-the-quantization-of-energy.html) 6.2, "The Quantization of Energy."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+3, 6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -151,9 +295,62 @@ Miller, D. P. _Discovering Water: James Watt, Henry Cavendish and the Nineteenth
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008) | MIT OpenCourseWare | Undergraduate (first-year) |  {{< br >}}{{< br >}} [Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2) {{< br >}}{{< br >}} [Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-5) {{< br >}}{{< br >}}  |
-| [The Bohr Model](http://hyperphysics.phy-astr.gsu.edu/hbase/bohrcn.html) | HyperPhysics | High school |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2)
+
+[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-5)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[The Bohr Model](http://hyperphysics.phy-astr.gsu.edu/hbase/bohrcn.html)
+{{< tdclose >}}
+{{< tdopen >}}
+HyperPhysics
+{{< tdclose >}}
+{{< tdopen >}}
+High school
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions) »

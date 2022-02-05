@@ -11,11 +11,54 @@ uid: 8791ad54-150b-7a2b-6cc7-b1ae36b0aef4
 Session Overview
 ----------------
 
-| **Modules** | Crystalline Materials |
-| **Concepts** | defects in crystals: point defects, line defects |
-| **Keywords** | point defect, line defect, substitutional impurity, interstitial impurity, vacancy, self interstitial, ionic defect, Hope Diamond, Schottky defect, Frenkel defect, F-center, charge neutrality, edge dislocation, screw dislocation, dislocation motion, bubble raft model, chemical imperfection, structural imperfection, formation energy, entropy factor, stoichiometric unit, effective charge, Kröger-Vink notation |
-| **Chemical Substances** | aluminum (Al), steel, diamond, doped silicon, LaNi5, copper (Cu), rock salt (NaCl), zirconia (ZrO2) |
-| **Applications** | aluminum alloys for soda cans, n-and p-type semiconductors, steel, hydrogen embrittlement of steel, Hope diamond, colored gold, hydrogen storage 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Crystalline Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+defects in crystals: point defects, line defects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+point defect, line defect, substitutional impurity, interstitial impurity, vacancy, self interstitial, ionic defect, Hope Diamond, Schottky defect, Frenkel defect, F-center, charge neutrality, edge dislocation, screw dislocation, dislocation motion, bubble raft model, chemical imperfection, structural imperfection, formation energy, entropy factor, stoichiometric unit, effective charge, Kröger-Vink notation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+aluminum (Al), steel, diamond, doped silicon, LaNi5, copper (Cu), rock salt (NaCl), zirconia (ZrO2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+aluminum alloys for soda cans, n-and p-type semiconductors, steel, hydrogen embrittlement of steel, Hope diamond, colored gold, hydrogen storage
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -44,14 +87,75 @@ Reading
 
 [Archived Lecture Notes #6 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln06), Sections 1-2
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals." | Defects in metals, memory metal, defects in ionic and molecular crystals, nonstoichiometric compounds |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.1, "The Solid Solution – Chemical Imperfection." | Random and ordered solid solutions, Hume-Rothery rules, interstitial and substitutional solutes, charge neutrality |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.2, "Point Defects – Zero-Dimensional Imperfections." | Vacancies and interstitial defects, Schottky and Frenkel defects |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.3, "Linear Defects, or Dislocations – One-Dimensional Imperfections." | Burgers vector; edge, screw, mixed, and partial dislocations |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.1, "Thermally-Activated Processes." | Arrhenius equation, activation energy, Maxwell-Boltzmann distribution, process mechanisms and rate-limiting steps |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects." | Activation energy of vacancies vs. interstitials, Arrhenius plot, thermal expansion 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
+{{< tdclose >}}
+{{< tdopen >}}
+Defects in metals, memory metal, defects in ionic and molecular crystals, nonstoichiometric compounds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.1, "The Solid Solution – Chemical Imperfection."
+{{< tdclose >}}
+{{< tdopen >}}
+Random and ordered solid solutions, Hume-Rothery rules, interstitial and substitutional solutes, charge neutrality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.2, "Point Defects – Zero-Dimensional Imperfections."
+{{< tdclose >}}
+{{< tdopen >}}
+Vacancies and interstitial defects, Schottky and Frenkel defects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.3, "Linear Defects, or Dislocations – One-Dimensional Imperfections."
+{{< tdclose >}}
+{{< tdopen >}}
+Burgers vector; edge, screw, mixed, and partial dislocations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.1, "Thermally-Activated Processes."
+{{< tdclose >}}
+{{< tdopen >}}
+Arrhenius equation, activation energy, Maxwell-Boltzmann distribution, process mechanisms and rate-limiting steps
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
+{{< tdclose >}}
+{{< tdopen >}}
+Activation energy of vacancies vs. interstitials, Arrhenius plot, thermal expansion
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -77,9 +181,36 @@ Homework
 
 [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) Chapter 5, Sample Problem 2, Practice Problem 2
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals." | 6, 7, 8, 9, 10 | 1, 2, 4, 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
+{{< tdclose >}}
+{{< tdopen >}}
+6, 7, 8, 9, 10
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2, 4, 5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -102,10 +233,71 @@ Hull, Derek, and David J. Bacon. _Introduction to Dislocations_. Boston, MA: But
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Introduction to Dislocations](http://www.doitpoms.ac.uk/tlplib/dislocations/index.php) | DoITPoMS | Undergraduate | &nbsp; |
-| [3.14/3.40J/22.71J Physical Metallurgy](/courses/3-40j-physical-metallurgy-fall-2009) | MIT OpenCourseWare | Undergraduate (elective) / Graduate | &nbsp; |
-| [Crystal Structure](http://cnx.org/content/m16927/latest/) | Connexions | Undergraduate |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Introduction to Dislocations](http://www.doitpoms.ac.uk/tlplib/dislocations/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[3.14/3.40J/22.71J Physical Metallurgy](/courses/3-40j-physical-metallurgy-fall-2009)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective) / Graduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Crystal Structure](http://cnx.org/content/m16927/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques) | [Next]({{< baseurl >}}/pages/crystalline-materials/20-line-interface-and-bulk-defects) »

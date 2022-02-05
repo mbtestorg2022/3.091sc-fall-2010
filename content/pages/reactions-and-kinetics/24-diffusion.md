@@ -11,11 +11,54 @@ uid: 7fb92f46-c7f6-d1e9-ef01-16c44534f2c7
 Session Overview
 ----------------
 
-| **Modules** | Reactions and Kinetics |
-| **Concepts** | diffusion: Fick's first law and steady-state diffusion, dependence of the diffusion coefficient on temperature and atomic arrangement, Fick's second law and transient-state diffusion, error function solutions to Fick's second law |
-| **Keywords** | error function, diffusion, mass transport, mass flow rate, flux, Fick's first law, concentration gradient, diffusivity, concentration profile, rate of ingress, jump frequency, Debye frequency, activation energy, barrier energy, vacancy formation, atom migration, melting point, substitutional atom, interstitial atom, self-diffusion, random walk, equilibrium, diffusion coefficient, surface diffusion, grain boundary, bulk diffusion, effusion, Fick's second law, permeability, ideal gas law, normal distribution, void fraction, steady-state, transient, heat transfer |
-| **Chemical Substances** | cobalt-60 (60Co), cobalt-59 (59Co), lead (Pb), aluminum (Al), gold (Au), silver (Ag), copper (Cu), iron (Fe), graphite, carbon (C), calcia (CaO), zirconia (ZrO2), hydrogen (H), manganese (Mn), fused silica (SiO2), borosilicate glass (SiO2+B2O3), soda-lime glass (SiO2+Na2O+CaO), lead borate (PbO+B2O3), borate (B2O3) phosphate (P2O5), platinum (Pt) |
-| **Applications** | doping of semiconductors, oxygen sensor for catalytic converters, outgassing, drying 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Reactions and Kinetics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+diffusion: Fick's first law and steady-state diffusion, dependence of the diffusion coefficient on temperature and atomic arrangement, Fick's second law and transient-state diffusion, error function solutions to Fick's second law
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+error function, diffusion, mass transport, mass flow rate, flux, Fick's first law, concentration gradient, diffusivity, concentration profile, rate of ingress, jump frequency, Debye frequency, activation energy, barrier energy, vacancy formation, atom migration, melting point, substitutional atom, interstitial atom, self-diffusion, random walk, equilibrium, diffusion coefficient, surface diffusion, grain boundary, bulk diffusion, effusion, Fick's second law, permeability, ideal gas law, normal distribution, void fraction, steady-state, transient, heat transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+cobalt-60 (60Co), cobalt-59 (59Co), lead (Pb), aluminum (Al), gold (Au), silver (Ag), copper (Cu), iron (Fe), graphite, carbon (C), calcia (CaO), zirconia (ZrO2), hydrogen (H), manganese (Mn), fused silica (SiO2), borosilicate glass (SiO2+B2O3), soda-lime glass (SiO2+Na2O+CaO), lead borate (PbO+B2O3), borate (B2O3) phosphate (P2O5), platinum (Pt)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+doping of semiconductors, oxygen sensor for catalytic converters, outgassing, drying
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -41,12 +84,57 @@ Reading
 
 [Archived Lecture Notes #9 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln09)
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects." | Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expansion |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.3, "Point Defects and Solid-State Diffusion." | Diffusion and vacancy migration; Fick's first and second laws; the error function; concentration profiles for common geometries |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.4, "Steady-State Diffusion." | Linear solution to diffusion at constant concentration |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.5, "Alternate Diffusion Paths." | Bulk, surface, and grain boundary diffusion 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
+{{< tdclose >}}
+{{< tdopen >}}
+Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expansion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.3, "Point Defects and Solid-State Diffusion."
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion and vacancy migration; Fick's first and second laws; the error function; concentration profiles for common geometries
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.4, "Steady-State Diffusion."
+{{< tdclose >}}
+{{< tdopen >}}
+Linear solution to diffusion at constant concentration
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.5, "Alternate Diffusion Paths."
+{{< tdclose >}}
+{{< tdopen >}}
+Bulk, surface, and grain boundary diffusion
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -95,10 +183,71 @@ Hornsby, Bruce, and John Hornsby. "The Way It Is." _The Way It Is_. Performed by
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Diffusion](http://www.doitpoms.ac.uk/tlplib/diffusion/index.php) | DoITPoMS | Undergraduate | &nbsp; |
-| [Diffusion](http://cnx.org/content/m1010/latest/) | Connexions | Undergraduate | &nbsp; |
-| [1.061/1.61 Transport Processes in the Environment](/courses/1-061-transport-processes-in-the-environment-fall-2008) | MIT OpenCourseWare | Undergraduate (elective) / Graduate | Explore [lecture notes, animations, and worked examples](/courses/1-061-transport-processes-in-the-environment-fall-2008/pages/lecture-notes) focusing on environmental systems. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Diffusion](http://www.doitpoms.ac.uk/tlplib/diffusion/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Diffusion](http://cnx.org/content/m1010/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[1.061/1.61 Transport Processes in the Environment](/courses/1-061-transport-processes-in-the-environment-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective) / Graduate
+{{< tdclose >}}
+{{< tdopen >}}
+Explore [lecture notes, animations, and worked examples](/courses/1-061-transport-processes-in-the-environment-fall-2008/pages/lecture-notes) focusing on environmental systems.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/reactions-and-kinetics/23-reaction-rates) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/self-assessment-reactions-and-kinetics) »

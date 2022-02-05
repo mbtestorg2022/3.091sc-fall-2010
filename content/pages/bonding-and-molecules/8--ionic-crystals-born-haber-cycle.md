@@ -11,11 +11,54 @@ uid: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
 Session Overview
 ----------------
 
-| **Modules** | Bonding and Molecules |
-| **Concepts** | ionic bonding: octet stability by electron sharing, energy of ion pairs vs. ion lattice, and properties of ionic crystals, enthalpy of reaction: Hess's law, Born-Haber cycle |
-| **Keywords** | Born exponent, cation, anion, covalent bond, ionic bond, valence shell electron pair repulsion model (VSEPR), interionic separation, crystal array, omnidirectional bond, unsaturated bond, Avogadro's number, electrostatic energy, ionic solid, Madelung constant, melting point, boiling point, electrical insulator, hardness, brittle, soluble, polar solvent, noble gas, ionic liquid, photon, transparency, binding energy, hybridized bond, elasticity, enthalpy, ionization energy, sublimation, electron affinity, lattice energy, bonding electron, nonbonding electron, molecular architecture |
-| **Chemical Substances** | sodium chloride (NaCl), manganese (Mn), sodium (Na), potassium (K), silver iodide (AgI), neon (Ne), magnesium oxide (MgO), aluminum (Al), aluminum oxide (Al2O3), cryolite (Na3AlF6) |
-| **Applications** | design of thermal abrasion resistance materials, design of inert anode materials 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Bonding and Molecules
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+ionic bonding: octet stability by electron sharing, energy of ion pairs vs. ion lattice, and properties of ionic crystals, enthalpy of reaction: Hess's law, Born-Haber cycle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+Born exponent, cation, anion, covalent bond, ionic bond, valence shell electron pair repulsion model (VSEPR), interionic separation, crystal array, omnidirectional bond, unsaturated bond, Avogadro's number, electrostatic energy, ionic solid, Madelung constant, melting point, boiling point, electrical insulator, hardness, brittle, soluble, polar solvent, noble gas, ionic liquid, photon, transparency, binding energy, hybridized bond, elasticity, enthalpy, ionization energy, sublimation, electron affinity, lattice energy, bonding electron, nonbonding electron, molecular architecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+sodium chloride (NaCl), manganese (Mn), sodium (Na), potassium (K), silver iodide (AgI), neon (Ne), magnesium oxide (MgO), aluminum (Al), aluminum oxide (Al2O3), cryolite (Na3AlF6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+design of thermal abrasion resistance materials, design of inert anode materials
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -46,13 +89,66 @@ Reading
 
 [Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Sections 1, 2
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation." | Ionization energies; electron affinities; electronegativity |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-01-an-overview-of-chemical-bondin.html) 8.1, "An Overview of Chemical Bonding." | Review of chemical bonding; comparison of covalent and ionic bonds |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-02-ionic-bonding.html) 8.2, "Ionic Bonding." | Electrostatic attraction and repulsion; potential energy at the bond distance |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-03-lattice-energies-in-ionic-soli.html) 8.3, "Lattice Energies in Ionic Solids." | Calculating lattice energies; the relationship between lattice energies and physical properties; the Born-Haber cycle; predicting the stability of ionic compounds |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation between Bonding and the Properties of Solids." | Ionic solids; molecular solids; covalent solids; metallic solids 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation."
+{{< tdclose >}}
+{{< tdopen >}}
+Ionization energies; electron affinities; electronegativity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-01-an-overview-of-chemical-bondin.html) 8.1, "An Overview of Chemical Bonding."
+{{< tdclose >}}
+{{< tdopen >}}
+Review of chemical bonding; comparison of covalent and ionic bonds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-02-ionic-bonding.html) 8.2, "Ionic Bonding."
+{{< tdclose >}}
+{{< tdopen >}}
+Electrostatic attraction and repulsion; potential energy at the bond distance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-03-lattice-energies-in-ionic-soli.html) 8.3, "Lattice Energies in Ionic Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+Calculating lattice energies; the relationship between lattice energies and physical properties; the Born-Haber cycle; predicting the stability of ionic compounds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation between Bonding and the Properties of Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+Ionic solids; molecular solids; covalent solids; metallic solids
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -86,13 +182,84 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-03-lattice-energies-in-ionic-soli.html) 8.3, "Lattice Energies in Ionic Solids." | 7, 9 | 4, 5, 6 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-04-lewis-electron-dot-symbols.html) 8.4, "Lewis Electron Dot Structures." | 2 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-05-lewis-structures-and-covalent-.html) 8.5, "Lewis Structures and Covalent Bonding." | 3 | 7, 9, 13, 18 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-06-exceptions-to-the-octet-rule.html) 8.6, "Exceptions to the Octet Rule." | 2 | 4 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions." | none | 1, 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-03-lattice-energies-in-ionic-soli.html) 8.3, "Lattice Energies in Ionic Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+7, 9
+{{< tdclose >}}
+{{< tdopen >}}
+4, 5, 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-04-lewis-electron-dot-symbols.html) 8.4, "Lewis Electron Dot Structures."
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-05-lewis-structures-and-covalent-.html) 8.5, "Lewis Structures and Covalent Bonding."
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+7, 9, 13, 18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-06-exceptions-to-the-octet-rule.html) 8.6, "Exceptions to the Octet Rule."
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+1, 5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -125,9 +292,64 @@ Charles, Daniel. _Master Mind: The Rise and Fall of Fritz Haber, the Nobel Laure
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008) | MIT OpenCourseWare | Undergraduate (first-year) |  {{< br >}}{{< br >}} [Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10) {{< br >}}{{< br >}} [Lecture 11: Lewis Structures](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-11) {{< br >}}{{< br >}} [Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-12) {{< br >}}{{< br >}}  |
-| [Chemical Bonds](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/bondcon.html) | HyperPhysics: Chemistry | High school |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10)
+
+[Lecture 11: Lewis Structures](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-11)
+
+[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-12)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Chemical Bonds](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/bondcon.html)
+{{< tdclose >}}
+{{< tdopen >}}
+HyperPhysics: Chemistry
+{{< tdclose >}}
+{{< tdopen >}}
+High school
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »

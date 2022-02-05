@@ -11,11 +11,54 @@ uid: 3db3383b-b411-d2fc-45f2-4495b3640825
 Session Overview
 ----------------
 
-| **Modules** | Organic Materials |
-| **Concepts** | denaturing proteins, lipids and their self assembly into bilayers, nucleic acids, DNA, and encoding information for protein synthesis, history of the discovery of DNA double helix structure |
-| **Keywords** | denaturing, disulfide bond, triglyceride, zwitterion, aliphatic compound, cell wall, nucleotide, amphipathic, amine, base pairs, codon, Laue pattern, alpha helix, Oswald Avery, Erwin Chargaff, Rosalind Franklin, Francis Crick, James Watson, Maurice Wilkins, x-ray crystallography, biological replication |
-| **Chemical Substances** | fats, oils, cholesterols, hormones, phospholipid, phosphatide, phosphatidylethanolamine, ribose, 2-deoxyribose, DNA, RNA, guanine, cytosine, adenine, thymine |
-| **Applications** | cooking food, pickling food, hair styling, laundry detergent 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+denaturing proteins, lipids and their self assembly into bilayers, nucleic acids, DNA, and encoding information for protein synthesis, history of the discovery of DNA double helix structure
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+denaturing, disulfide bond, triglyceride, zwitterion, aliphatic compound, cell wall, nucleotide, amphipathic, amine, base pairs, codon, Laue pattern, alpha helix, Oswald Avery, Erwin Chargaff, Rosalind Franklin, Francis Crick, James Watson, Maurice Wilkins, x-ray crystallography, biological replication
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+fats, oils, cholesterols, hormones, phospholipid, phosphatide, phosphatidylethanolamine, ribose, 2-deoxyribose, DNA, RNA, guanine, cytosine, adenine, thymine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+cooking food, pickling food, hair styling, laundry detergent
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -40,11 +83,48 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-06-the-molecules-of-life.html) 24.6, "The Molecules of Life." | Overview of lipids and nucleic acids |
-| [\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 20-1 through 20-5 in Chapter 20, "Lipids." | Fatty acids; waxes; fats and oils; soaps, detergents, and micelles; phospholipids |
-| [\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 21-2, 21-5, and 21-8 in Chapter 21, "Nucleosides, Nucleotides, and Nucleic Acids." | Overview of nucleic acids; DNA and heredity; biosynthesis of proteins via translation 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-06-the-molecules-of-life.html) 24.6, "The Molecules of Life."
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of lipids and nucleic acids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 20-1 through 20-5 in Chapter 20, "Lipids."
+{{< tdclose >}}
+{{< tdopen >}}
+Fatty acids; waxes; fats and oils; soaps, detergents, and micelles; phospholipids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 21-2, 21-5, and 21-8 in Chapter 21, "Nucleosides, Nucleotides, and Nucleic Acids."
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of nucleic acids; DNA and heredity; biosynthesis of proteins via translation
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -119,8 +199,41 @@ Hank Ballard and the Midnighters. "The Twist." (B-side with "Teardrops on Your L
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011) | MIT OpenCourseWare | Undergraduate (first-year) | See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/organic-materials/31-protein-structure) | [Next]({{< baseurl >}}/pages/organic-materials/self-assessment-organic-materials) »

@@ -11,11 +11,54 @@ uid: 31cd4459-a0c6-f229-2b86-eee893f5dd0b
 Session Overview
 ----------------
 
-| **Modules** | Solid Solutions |
-| **Concepts** | two-component phase diagrams, complete solubility (Type 1), limited solubility of both components in each other (Type 2), lever rule |
-| **Keywords** | pressure, temperature, composition, isomorphism, slush, lenticular, coexistence curve, liquidus, solidus, tie line, lever rule, metallurgy, phase separation, syncline, consolute temperature, miscibility gap, cosolvation |
-| **Chemical Substances** | solutions of Cu-Ni, NiO-MgO, Au-Ni, hexane–nitrobenzene, KCl-NaCl |
-| **Applications** | metal refining, metal recycling, ouzo, absinthe, cognac 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Solid Solutions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+two-component phase diagrams, complete solubility (Type 1), limited solubility of both components in each other (Type 2), lever rule
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+pressure, temperature, composition, isomorphism, slush, lenticular, coexistence curve, liquidus, solidus, tie line, lever rule, metallurgy, phase separation, syncline, consolute temperature, miscibility gap, cosolvation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+solutions of Cu-Ni, NiO-MgO, Au-Ni, hexane–nitrobenzene, KCl-NaCl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+metal refining, metal recycling, ouzo, absinthe, cognac
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -41,10 +84,39 @@ Reading
 
 [Archived Lecture Notes #10 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10), Part B and [#10 Supplement (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10s)
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule." | Discussion of phase, component, and state; Gibbs phase rule; unary (one-component) phase diagram |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.2, "The Phase Diagram." | Binary phase diagrams; complete solid solutions; eutectic diagrams with no solid and limited solid solutions 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule."
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of phase, component, and state; Gibbs phase rule; unary (one-component) phase diagram
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.2, "The Phase Diagram."
+{{< tdclose >}}
+{{< tdopen >}}
+Binary phase diagrams; complete solid solutions; eutectic diagrams with no solid and limited solid solutions
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -99,9 +171,56 @@ Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usato
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [3.012 Fundamentals of Material Science](/courses/3-012-fundamentals-of-materials-science-fall-2005) | MIT OpenCourseWare | Undergraduate (second-year) | See [Thermodynamics lectures 17-19](/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes) on multi-phase and binary phase diagrams, plus associated recitations and assignment content |
-| [Phase Diagrams and Solidification](http://www.doitpoms.ac.uk/tlplib/phase-diagrams/index.php), [Solid Solutions](http://www.doitpoms.ac.uk/tlplib/solid-solutions/index.php) | DoITPoMS | Undergraduate |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[3.012 Fundamentals of Material Science](/courses/3-012-fundamentals-of-materials-science-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (second-year)
+{{< tdclose >}}
+{{< tdopen >}}
+See [Thermodynamics lectures 17-19](/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes) on multi-phase and binary phase diagrams, plus associated recitations and assignment content
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Phase Diagrams and Solidification](http://www.doitpoms.ac.uk/tlplib/phase-diagrams/index.php), [Solid Solutions](http://www.doitpoms.ac.uk/tlplib/solid-solutions/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/solid-solutions/33-unary-phase-diagrams) | [Next]({{< baseurl >}}/pages/solid-solutions/35-binary-phase-diagrams-limited-solubility) »

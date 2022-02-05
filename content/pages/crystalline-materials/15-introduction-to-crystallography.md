@@ -11,11 +11,84 @@ uid: 94d7c45c-dd53-4c54-0679-000be37ea165
 Session Overview
 ----------------
 
-| **Modules** | Electronic Materials, Crystalline Materials |
-| **Concepts** | p-n junction, introduction to the solid state, the 7 crystal systems, the 14 Bravais lattices, properties of cubic crystals: simple cubic, face-centered cubic, body-centered cubic, and diamond cubic |
-| **Keywords** | {{< h 3 >}}Electronic Materials{{< /h >}} {{< br >}}{{< br >}} subvalent, aliovalent, supervalent, conduction band, valence band, semiconductor, silicon, dopant, thermal excitation, n-type, p-type, acceptor level, charge carrier, p-n junction {{< br >}}{{< br >}} {{< h 3 >}}Crystalline Materials{{< /h >}} {{< br >}}{{< br >}} crystal, glass, amorphous solid, ordered solid, long-range order, Bravais lattice, crystal system, point group, translation, rotation, symmetry plane, degree of symmetry, crystal basis, unit cell, face-centered cubic, simple cubic, body-centered cubic, hexagonal close-packed, rock salt structure, diamond cubic, birefringence, crystallography, nearest neighbor, Auguste Bravais, René Haüy, Robert Hooke, Christiaan Huygens, Nicolaus Steno {{< br >}}{{< br >}}  |
-| **Chemical Substances** | {{< h 3 >}}Electronic Materials{{< /h >}} {{< br >}}{{< br >}} silicon (Si), boron (B), diamond (C) {{< br >}}{{< br >}} {{< h 3 >}}Crystalline Materials{{< /h >}} {{< br >}}{{< br >}} glass, obsidian, quartz, calcite, tin (Sn), basalt, beryl, fluorite, gold (Au), aluminum (Al), copper (Cu), platinum (Pt), methane ice (CH4), rock salt (NaCl) {{< br >}}{{< br >}}  |
-| **Applications** | {{< h 3 >}}Electronic Materials{{< /h >}} {{< br >}}{{< br >}} transistors, diodes, current rectification {{< br >}}{{< br >}} {{< h 3 >}}Crystalline Materials{{< /h >}} {{< br >}}{{< br >}} cannonball stacking, tiling of 2D surfaces, fiber optics coupling, optical beam-splitter, colored gold {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Materials, Crystalline Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+p-n junction, introduction to the solid state, the 7 crystal systems, the 14 Bravais lattices, properties of cubic crystals: simple cubic, face-centered cubic, body-centered cubic, and diamond cubic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Electronic Materials
+
+subvalent, aliovalent, supervalent, conduction band, valence band, semiconductor, silicon, dopant, thermal excitation, n-type, p-type, acceptor level, charge carrier, p-n junction
+
+### Crystalline Materials
+
+crystal, glass, amorphous solid, ordered solid, long-range order, Bravais lattice, crystal system, point group, translation, rotation, symmetry plane, degree of symmetry, crystal basis, unit cell, face-centered cubic, simple cubic, body-centered cubic, hexagonal close-packed, rock salt structure, diamond cubic, birefringence, crystallography, nearest neighbor, Auguste Bravais, René Haüy, Robert Hooke, Christiaan Huygens, Nicolaus Steno
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Electronic Materials
+
+silicon (Si), boron (B), diamond (C)
+
+### Crystalline Materials
+
+glass, obsidian, quartz, calcite, tin (Sn), basalt, beryl, fluorite, gold (Au), aluminum (Al), copper (Cu), platinum (Pt), methane ice (CH4), rock salt (NaCl)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Electronic Materials
+
+transistors, diodes, current rectification
+
+### Crystalline Materials
+
+cannonball stacking, tiling of 2D surfaces, fiber optics coupling, optical beam-splitter, colored gold
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -43,12 +116,57 @@ Reading
 
 [Archived Lecture Notes #4 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln04), Sections 1-3
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-01-crystalline-and-amorphous-soli.html) 12.1, "Crystalline and Amorphous Solids." | Crystal lattice parameters; properties of crystalline and amorphous solids |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids." | The unit cell; packing of spheres |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.1, "Seven Systems and Fourteen Lattices." | The unit cell and its parameters; crystal systems and crystal (Bravais) lattices |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.2, "Metal Structures." | Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close-packed structures; atomic packing factor; plane stacking 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-01-crystalline-and-amorphous-soli.html) 12.1, "Crystalline and Amorphous Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+Crystal lattice parameters; properties of crystalline and amorphous solids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+The unit cell; packing of spheres
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.1, "Seven Systems and Fourteen Lattices."
+{{< tdclose >}}
+{{< tdopen >}}
+The unit cell and its parameters; crystal systems and crystal (Bravais) lattices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.2, "Metal Structures."
+{{< tdclose >}}
+{{< tdopen >}}
+Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close-packed structures; atomic packing factor; plane stacking
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -82,10 +200,48 @@ Homework
 
 ### _Textbook Problems_
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids." | 1, 8, 9 | 3, 5, 9, 11 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds." | 4 | none 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+1, 8, 9
+{{< tdclose >}}
+{{< tdopen >}}
+3, 5, 9, 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds."
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -126,10 +282,71 @@ Talking Heads. "Burning Down the House." _Speaking in Tongues_. Sire Records, 19
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Crystallography](http://www.doitpoms.ac.uk/tlplib/crystallography3/index.php) | DoITPoMS | Undergraduate | &nbsp; |
-| [Crystal Structure](http://cnx.org/content/m16927/latest/) | Connexions | Undergraduate | &nbsp; |
-| [3.60 Symmetry, Structure, and Tensor Properties of Materials](/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005) | MIT OpenCourseWare | Graduate | A mathematical approach to crystal symmetry with connections to bulk material properties such as stress, strain, thermal conductivity, and piezoelectricity. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Crystallography](http://www.doitpoms.ac.uk/tlplib/crystallography3/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Crystal Structure](http://cnx.org/content/m16927/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[3.60 Symmetry, Structure, and Tensor Properties of Materials](/courses/3-60-symmetry-structure-and-tensor-properties-of-materials-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Graduate
+{{< tdclose >}}
+{{< tdopen >}}
+A mathematical approach to crystal symmetry with connections to bulk material properties such as stress, strain, thermal conductivity, and piezoelectricity.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/electronic-materials/self-assessment-electronic-materials) | [Next]({{< baseurl >}}/pages/crystalline-materials/16-crystallographic-notation-x-rays) »

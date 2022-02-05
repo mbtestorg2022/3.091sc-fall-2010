@@ -11,11 +11,54 @@ uid: 98ba1bf2-d4f9-d827-e295-168909119297
 Session Overview
 ----------------
 
-| **Modules** | Aqueous Solutions |
-| **Concepts** | Arrhenius, Brønsted-Lowry, and Lewis models of acids and bases, acid strength, pH |
-| **Keywords** | acid, base, alkali, acid-base reaction, proton, electron, donor, acceptor, neutralization, dissociation, ionization, conjugate acid-base pairs, protonation, deprotonation, amphiprotic |
-| **Chemical Substances** | ammonia (NH3), ammonium (NH4), hydronium (H3O+), hydroxyl (OH\-), acetic acid (CH3COOH), sulfur dioxide (SO2) |
-| **Applications** | pickling, wine, coal-fired power plant, acid rain, sulfur dioxide scrubber 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Aqueous Solutions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+Arrhenius, Brønsted-Lowry, and Lewis models of acids and bases, acid strength, pH
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+acid, base, alkali, acid-base reaction, proton, electron, donor, acceptor, neutralization, dissociation, ionization, conjugate acid-base pairs, protonation, deprotonation, amphiprotic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+ammonia (NH3), ammonium (NH4), hydronium (H3O+), hydroxyl (OH\-), acetic acid (CH3COOH), sulfur dioxide (SO2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+pickling, wine, coal-fired power plant, acid rain, sulfur dioxide scrubber
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -38,14 +81,75 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s08-06-acid-base-reactions.html) 4.6, "Acid-Base Reactions." | Definitions of acids and bases; polyprotic acids; strengths of acids and bases; hydronium ion; neutralization reactions; pH scale |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-07-lewis-acids-and-bases.html) 8.7, "Lewis Acids and Bases." | Lewis acids and bases |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-01-the-autoionization-of-water.html) 16.1, "The Autoionization of Water." | Acid-base properties of water; ion-product constant; relationship among pH, pOH, and pKw |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-02-a-qualitative-description-of-a.html) 16.2, "A Qualitative Description of Acid-Base Equilibria." | Conjugate acid-base pairs; equilibrium constants Ka, Kb, pKa and pKb; strong acids and bases; leveling effect; polyprotic acids and bases; solutions of salts |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-03-molecular-structure-and-acid-b.html) 16.3, "Molecular Structure and Acid-Base Strength." | Bond strengths; conjugate bases; inductive effects |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-04-quantitative-aspects-of-acid-b.html) 16.4, "Quantitative Aspects of Acid-Base Equilibria." | Ka and Kb; percent ionization from Ka and Kb; Keq from Ka and Kb 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s08-06-acid-base-reactions.html) 4.6, "Acid-Base Reactions."
+{{< tdclose >}}
+{{< tdopen >}}
+Definitions of acids and bases; polyprotic acids; strengths of acids and bases; hydronium ion; neutralization reactions; pH scale
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-07-lewis-acids-and-bases.html) 8.7, "Lewis Acids and Bases."
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis acids and bases
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-01-the-autoionization-of-water.html) 16.1, "The Autoionization of Water."
+{{< tdclose >}}
+{{< tdopen >}}
+Acid-base properties of water; ion-product constant; relationship among pH, pOH, and pKw
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-02-a-qualitative-description-of-a.html) 16.2, "A Qualitative Description of Acid-Base Equilibria."
+{{< tdclose >}}
+{{< tdopen >}}
+Conjugate acid-base pairs; equilibrium constants Ka, Kb, pKa and pKb; strong acids and bases; leveling effect; polyprotic acids and bases; solutions of salts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-03-molecular-structure-and-acid-b.html) 16.3, "Molecular Structure and Acid-Base Strength."
+{{< tdclose >}}
+{{< tdopen >}}
+Bond strengths; conjugate bases; inductive effects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-04-quantitative-aspects-of-acid-b.html) 16.4, "Quantitative Aspects of Acid-Base Equilibria."
+{{< tdclose >}}
+{{< tdopen >}}
+Ka and Kb; percent ionization from Ka and Kb; Keq from Ka and Kb
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -76,14 +180,96 @@ Homework
 
 ### Textbook Problems
 
-| \[saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s08-06-acid-base-reactions.html) 4.6, "Acid-Base Reactions." | 1, 2 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-02-a-qualitative-description-of-a.html) 16.2, "A Qualitative Description of Acid-Base Equilibria." | 2 | 2 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-03-molecular-structure-and-acid-b.html) 16.3, "Molecular Structure and Acid-Base Strength." | 3 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-04-quantitative-aspects-of-acid-b.html) 16.4, "Quantitative Aspects of Acid-Base Equilibria." | none | 8, 15 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-05-acid-base-titrations.html) 16.5, "Acid-Base Titrations." | none | 1 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-06-buffers.html) 16.6, "Buffers." | none | 3 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s08-06-acid-base-reactions.html) 4.6, "Acid-Base Reactions."
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-02-a-qualitative-description-of-a.html) 16.2, "A Qualitative Description of Acid-Base Equilibria."
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-03-molecular-structure-and-acid-b.html) 16.3, "Molecular Structure and Acid-Base Strength."
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-04-quantitative-aspects-of-acid-b.html) 16.4, "Quantitative Aspects of Acid-Base Equilibria."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+8, 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-05-acid-base-titrations.html) 16.5, "Acid-Base Titrations."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s20-06-buffers.html) 16.6, "Buffers."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -108,9 +294,64 @@ Brandis, Kerry. [_Acid-Base Physiology_](http://www.anaesthesiamcq.com/AcidBaseB
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008) | MIT OpenCourseWare | Undergraduate (first-year) |  {{< br >}}{{< br >}} For an alternative treatment of many topics in this session (e.g. acid-base models, pH, equilibrium, acid strength, reaction problems), see: {{< br >}}{{< br >}} [Lecture 21: Acid-Base Equilibrium](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-21) {{< br >}}{{< br >}} [Lecture 22: Chemical and Biological Buffers](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-22) {{< br >}}{{< br >}}  |
-| [Acid-Base Equilibrium](http://cnx.org/content/m12591/latest/) | Connexions | Undergraduate, general chemistry | Includes notes and sample exercises 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+For an alternative treatment of many topics in this session (e.g. acid-base models, pH, equilibrium, acid strength, reaction problems), see:
+
+[Lecture 21: Acid-Base Equilibrium](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-21)
+
+[Lecture 22: Chemical and Biological Buffers](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-22)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Acid-Base Equilibrium](http://cnx.org/content/m12591/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate, general chemistry
+{{< tdclose >}}
+{{< tdopen >}}
+Includes notes and sample exercises
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions) | [Next]({{< baseurl >}}/pages/aqueous-solutions/self-assessment-aqueous-solutions) »

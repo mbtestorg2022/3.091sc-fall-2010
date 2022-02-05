@@ -11,11 +11,54 @@ uid: 1d01a4a6-fa92-2854-cead-1f61b1189649
 Session Overview
 ----------------
 
-| **Modules** | Amorphous Materials |
-| **Concepts** | amorphous solids, glass formation, silicate and metallic glass, engineering glass properties: network formers, network modifiers |
-| **Keywords** | glass, amorphous solid, disordered solid, short-range order, metalloid, atomic mobility, rate of cooling, viscosity, silicate glass, network former, network modifier, solidification, molar volume, supercooled liquid, coefficient of thermal expansion, melting point, glass transition temperature, quenching, excess volume, processing temperature, chain scission, fluidity, bridging oxygen, terminal oxygen, index of refraction, metallic glass, free volume |
-| **Chemical Substances** | SiO2/silicates, B2O3/borates, GeO2/germanates, P2O5/phosphates, V2O5/vanadates, As2O5/arsenate, SbO5/stibnates, polymers, sulfur (S), quartz, Fe80B20, calcium oxide (CaO), lithium oxide (Li2O), sodium oxide (Na2O), magnesium oxide (MgO), lanthanum oxide (La2O3), yttrium oxide (Y2O3), scandium oxide (Sc2O3), lead oxide (PbO), tin oxide (SnO), cristobalite, water |
-| **Applications** | bottles, jars, food and beverage containers, windows, glass cookware, plastic wrap, food canning, optical fibers, computer screens, anti-theft tags, mercury thermometer, lead crystal 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Amorphous Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+amorphous solids, glass formation, silicate and metallic glass, engineering glass properties: network formers, network modifiers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+glass, amorphous solid, disordered solid, short-range order, metalloid, atomic mobility, rate of cooling, viscosity, silicate glass, network former, network modifier, solidification, molar volume, supercooled liquid, coefficient of thermal expansion, melting point, glass transition temperature, quenching, excess volume, processing temperature, chain scission, fluidity, bridging oxygen, terminal oxygen, index of refraction, metallic glass, free volume
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+SiO2/silicates, B2O3/borates, GeO2/germanates, P2O5/phosphates, V2O5/vanadates, As2O5/arsenate, SbO5/stibnates, polymers, sulfur (S), quartz, Fe80B20, calcium oxide (CaO), lithium oxide (Li2O), sodium oxide (Na2O), magnesium oxide (MgO), lanthanum oxide (La2O3), yttrium oxide (Y2O3), scandium oxide (Sc2O3), lead oxide (PbO), tin oxide (SnO), cristobalite, water
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+bottles, jars, food and beverage containers, windows, glass cookware, plastic wrap, food canning, optical fibers, computer screens, anti-theft tags, mercury thermometer, lead crystal
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -38,10 +81,39 @@ Reading
 
 [Archived Lecture Notes #7 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln07)
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.5, "Noncrystalline Solids – Three-Dimensional Imperfections." | Random network theory of solids; long-, medium-, and short-range order; oxide, semiconductor, and metallic glasses; network formers and modifiers |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.2, "Glasses – Noncrystalline Materials." | Network formers, modifiers, and intermediates; commercial silicate glasses; nonsilicate glasses; applications of amorphous solids 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.5, "Noncrystalline Solids – Three-Dimensional Imperfections."
+{{< tdclose >}}
+{{< tdopen >}}
+Random network theory of solids; long-, medium-, and short-range order; oxide, semiconductor, and metallic glasses; network formers and modifiers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 12.2, "Glasses – Noncrystalline Materials."
+{{< tdclose >}}
+{{< tdopen >}}
+Network formers, modifiers, and intermediates; commercial silicate glasses; nonsilicate glasses; applications of amorphous solids
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -82,8 +154,41 @@ Chihuly, Dale. _Chihuly: Form From Fire_. Seattle, WA: University of Washington 
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Fracture of Glass](http://www.doitpoms.ac.uk/tlplib/BD5/index.php) | DoITPoMS | Undergraduate |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fracture of Glass](http://www.doitpoms.ac.uk/tlplib/BD5/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/amorphous-materials) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics) »

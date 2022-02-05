@@ -11,11 +11,54 @@ uid: ca8d17e3-3c26-884a-7904-68ea3eee4bed
 Session Overview
 ----------------
 
-| **Modules** | Solid Solutions |
-| **Concepts** | introduction to phase diagrams, basic definitions of phase, component, and equilibrium, one-component phase diagrams |
-| **Keywords** | stability, pressure, temperature, vapor, liquid, solid, phase, equilibrium, component, triple point, melting, boiling, glass transition temperature, polymorph, sublimation, supercritical |
-| **Chemical Substances** | water (H2O), zirconia (ZrO2), snowflake obsidian, aluminum (Al), silicon (Si), carbon dioxide (CO2), nitrogen (N), bismuth (Bi), sulfur (S), oxygen (O), argon (Ar), "dry ice", carbon (C), mercury (Hg) |
-| **Applications** | failure analysis, cooking food at altitude and in pressure cooker, automobile engine cooling, ice skating, artificial diamonds, coffee decaffeination 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Solid Solutions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+introduction to phase diagrams, basic definitions of phase, component, and equilibrium, one-component phase diagrams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+stability, pressure, temperature, vapor, liquid, solid, phase, equilibrium, component, triple point, melting, boiling, glass transition temperature, polymorph, sublimation, supercritical
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+water (H2O), zirconia (ZrO2), snowflake obsidian, aluminum (Al), silicon (Si), carbon dioxide (CO2), nitrogen (N), bismuth (Bi), sulfur (S), oxygen (O), argon (Ar), "dry ice", carbon (C), mercury (Hg)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+failure analysis, cooking food at altitude and in pressure cooker, automobile engine cooling, ice skating, artificial diamonds, coffee decaffeination
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -41,10 +84,39 @@ Reading
 
 [Archived Lecture Notes #10 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10), Part A
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-06-critical-temperature-and-press.html) 11.6, "Critical Temperature and Pressure." | Supercritical fluids; molten salts and ionic liquids |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-07-phase-diagrams.html) 11.7, "Phase Diagrams." | General features of phase diagrams; phase diagrams of water and carbon dioxide 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-06-critical-temperature-and-press.html) 11.6, "Critical Temperature and Pressure."
+{{< tdclose >}}
+{{< tdopen >}}
+Supercritical fluids; molten salts and ionic liquids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s15-07-phase-diagrams.html) 11.7, "Phase Diagrams."
+{{< tdclose >}}
+{{< tdopen >}}
+General features of phase diagrams; phase diagrams of water and carbon dioxide
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -97,8 +169,41 @@ Alexander Calder, [Mercury Fountain](http://www.fundaciomiro-bcn.org/coleccio_ob
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [3.012 Fundamentals of Material Science](/courses/3-012-fundamentals-of-materials-science-fall-2005) | MIT OpenCourseWare | Undergraduate (second-year) | See [Thermodynamics lectures 15-16](/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes) on single-component phase diagrams, plus associated recitation and assignment content 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[3.012 Fundamentals of Material Science](/courses/3-012-fundamentals-of-materials-science-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (second-year)
+{{< tdclose >}}
+{{< tdopen >}}
+See [Thermodynamics lectures 15-16](/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes) on single-component phase diagrams, plus associated recitation and assignment content
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/organic-materials/self-assessment-organic-materials) | [Next]({{< baseurl >}}/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility) »

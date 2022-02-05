@@ -11,11 +11,54 @@ uid: 8a1709eb-16be-69bb-41cc-325703c25a95
 Session Overview
 ----------------
 
-| **Modules** | Structure of the Atom |
-| **Concepts** | origins of modern chemistry, taxonomy of chemical species, introduction to the periodic table, evolution of atomic theory |
-| **Keywords** | matter, element, compound, mixture, solution, metal, semimetal, nonmetal, mole, symbol, molecular mass, substance, homogeneous mixture, heterogeneous mixture, periodic table of elements, Democritus, Aristotle, John Dalton, triads, octaves, Johann Dobereiner, John Newlands, Dmitri Mendeleev, Julius Meyer |
-| **Chemical Substances** | none |
-| **Applications** | energy generation and storage (e.g. batteries) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of the Atom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+origins of modern chemistry, taxonomy of chemical species, introduction to the periodic table, evolution of atomic theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+matter, element, compound, mixture, solution, metal, semimetal, nonmetal, mole, symbol, molecular mass, substance, homogeneous mixture, heterogeneous mixture, periodic table of elements, Democritus, Aristotle, John Dalton, triads, octaves, Johann Dobereiner, John Newlands, Dmitri Mendeleev, Julius Meyer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+energy generation and storage (e.g. batteries)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -44,9 +87,30 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-00-introduction-to-chemistry.html) 1, "Introduction to Chemistry." | Chemistry in the modern world; the scientific method; a description of matter; a brief history of chemistry; the atom; introduction to the periodic table; essential elements 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-00-introduction-to-chemistry.html) 1, "Introduction to Chemistry."
+{{< tdclose >}}
+{{< tdopen >}}
+Chemistry in the modern world; the scientific method; a description of matter; a brief history of chemistry; the atom; introduction to the periodic table; essential elements
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -81,14 +145,96 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-03-a-description-of-matter.html) 1.3, "A Description of Matter." | 6, 7, 9, 10 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-04-a-brief-history-of-chemistry.html) 1.4, "A Brief History of Chemistry." | 6 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-05-the-atom.html) 1.5, "The Atom." | none | 1 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses." | 1 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-07-introduction-to-the-periodic-t.html) 1.7, "Introduction to the Periodic Table." | 1, 4, 6, 10, 11 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-01-the-mole-and-molar-masses.html) 3.1, "The Mole and Molar Masses." | none | 3, 8, 16, 17 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-03-a-description-of-matter.html) 1.3, "A Description of Matter."
+{{< tdclose >}}
+{{< tdopen >}}
+6, 7, 9, 10
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-04-a-brief-history-of-chemistry.html) 1.4, "A Brief History of Chemistry."
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-05-the-atom.html) 1.5, "The Atom."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses."
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-07-introduction-to-the-periodic-t.html) 1.7, "Introduction to the Periodic Table."
+{{< tdclose >}}
+{{< tdopen >}}
+1, 4, 6, 10, 11
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-01-the-mole-and-molar-masses.html) 3.1, "The Mole and Molar Masses."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+3, 8, 16, 17
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -119,8 +265,41 @@ Brown, T. L., H. E. Lemay, and B. E. Bursten. _Chemistry: The Central Science_. 
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008) | MIT OpenCourseWare | Undergraduate (first-year) | [Lecture 1: The Importance of Chemical Principles](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-1) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 1: The Importance of Chemical Principles](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-1)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/structure-of-the-atom) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/2-periodic-table) »

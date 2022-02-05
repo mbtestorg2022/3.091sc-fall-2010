@@ -11,11 +11,54 @@ uid: e504c6fa-63f4-b438-cb24-0e0ef9bc60eb
 Session Overview
 ----------------
 
-| **Modules** | Crystalline Materials |
-| **Concepts** | characterization of atomic structure, Moseley's law, generation of x-rays, x-ray diffraction |
-| **Keywords** | characteristic emission lines, Kα, Kβ, Lα, Lβ, atomic spectra, quantized spectrum, continuous spectrum, proton number, atomic number, atomic mass, periodicity, periodic table, x-ray tube, lanthanide series, Moseley's law, screening factor, Bremsstrahlung, braking radiation, ballistic electrons, target anode, cold cathode, hot cathode, scattering angle, Duane-Hunt law, Henry Moseley, William Coolidge |
-| **Chemical Substances** | calcium (Ca), titanium (Ti), vanadium (V), chromium (Cr), manganese (Mn), iron (Fe), copper (Cu), cobalt (Co), nickel (Ni), zinc (Zn), brass, argon (Ar), potassium (K), tellurium (Te), iodine (I), uranium (U), neptunium (Np), lanthanide series (La-Lu), molybdenum (Mo), lead (Pb), beryllium (Be) |
-| **Applications** | organization of the modern periodic table, electron-beam welding, lead shielding, analysis of paintings 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Crystalline Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+characterization of atomic structure, Moseley's law, generation of x-rays, x-ray diffraction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+characteristic emission lines, Kα, Kβ, Lα, Lβ, atomic spectra, quantized spectrum, continuous spectrum, proton number, atomic number, atomic mass, periodicity, periodic table, x-ray tube, lanthanide series, Moseley's law, screening factor, Bremsstrahlung, braking radiation, ballistic electrons, target anode, cold cathode, hot cathode, scattering angle, Duane-Hunt law, Henry Moseley, William Coolidge
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+calcium (Ca), titanium (Ti), vanadium (V), chromium (Cr), manganese (Mn), iron (Fe), copper (Cu), cobalt (Co), nickel (Ni), zinc (Zn), brass, argon (Ar), potassium (K), tellurium (Te), iodine (I), uranium (U), neptunium (Np), lanthanide series (La-Lu), molybdenum (Mo), lead (Pb), beryllium (Be)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+organization of the modern periodic table, electron-beam welding, lead shielding, analysis of paintings
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -40,10 +83,39 @@ Reading
 
 [Archived Lecture Notes #5 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln05), Section 2
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-01-the-history-of-the-periodic-ta.html) 7.1, "The Role of Atomic Number in the Periodic Table." (only read until Example 1) | Moseley's discovery of atomic number and its role in the periodic table |
-| [\[C&S\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#c_s) 1, "Properties of X-Rays." | Electromagnetic radiation; the continuous and characteristic spectrums; production and detection of x-rays; safety precautions 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-01-the-history-of-the-periodic-ta.html) 7.1, "The Role of Atomic Number in the Periodic Table." (only read until Example 1)
+{{< tdclose >}}
+{{< tdopen >}}
+Moseley's discovery of atomic number and its role in the periodic table
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[C&S\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#c_s) 1, "Properties of X-Rays."
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic radiation; the continuous and characteristic spectrums; production and detection of x-rays; safety precautions
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -67,9 +139,36 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds." | 5, 6 | none 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-03-structures-of-simple-binary-co.html) 12.3, "Structures of Simple Binary Compounds."
+{{< tdclose >}}
+{{< tdopen >}}
+5, 6
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -98,8 +197,41 @@ Lubar, Robert S. _Dali: The Salvador Dali Museum Collection_. Boston, MA: Bullfi
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [X-Ray Diffraction Techniques](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/index.php) | DoITPoMS | Undergraduate | See "[Experimental Matters](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/production.php)." 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[X-Ray Diffraction Techniques](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+See "[Experimental Matters](http://www.doitpoms.ac.uk/tlplib/xray-diffraction/production.php)."
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/crystalline-materials/16-crystallographic-notation-x-rays) | [Next]({{< baseurl >}}/pages/crystalline-materials/18-x-ray-diffraction-techniques) »

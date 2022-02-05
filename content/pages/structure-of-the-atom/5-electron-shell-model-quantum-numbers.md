@@ -11,11 +11,54 @@ uid: e7d31b34-62de-b7aa-1e87-6b9a5a99c71f
 Session Overview
 ----------------
 
-| **Modules** | Structure of the Atom |
-| **Concepts** | Bohr-Sommerfeld model and multi-electron atoms, quantum numbers (n, l, m, s), Balmer and Pfund series, Rydberg equation, Stern-Gerlach experiment |
-| **Keywords** | angstrom, wavelength, wave number, electron-volt, electron shell, electron subshell, quantum numbers, James Franck, Heinrich Hertz, Albert Michelson, Edward Morley, Pieter Zeeman, Hendrik Lorentz, emission line splitting, Arnold Sommerfeld, Bohr-Sommerfeld model, multi-electron atom, Johannes Kepler, Niels Bohr, Otto Stern, Walter Gerlach, Rydberg equation |
-| **Chemical Substances** | hydrogen (H), helium (He), mercury (Hg) |
-| **Applications** | photodetectors 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of the Atom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+Bohr-Sommerfeld model and multi-electron atoms, quantum numbers (n, l, m, s), Balmer and Pfund series, Rydberg equation, Stern-Gerlach experiment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+angstrom, wavelength, wave number, electron-volt, electron shell, electron subshell, quantum numbers, James Franck, Heinrich Hertz, Albert Michelson, Edward Morley, Pieter Zeeman, Hendrik Lorentz, emission line splitting, Arnold Sommerfeld, Bohr-Sommerfeld model, multi-electron atom, Johannes Kepler, Niels Bohr, Otto Stern, Walter Gerlach, Rydberg equation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+hydrogen (H), helium (He), mercury (Hg)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+photodetectors
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -41,10 +84,39 @@ Reading
 
 [Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Section 3
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-05-atomic-orbitals-and-their-ener.html) 6.5, "Atomic Orbitals and Their Energies." | Wave functions; quantum numbers; orbital shapes; orbital energies; effective nuclear charges |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table." | Electron spin: the fourth quantum number; the Pauli principle; electron configurations of the elements 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-05-atomic-orbitals-and-their-ener.html) 6.5, "Atomic Orbitals and Their Energies."
+{{< tdclose >}}
+{{< tdopen >}}
+Wave functions; quantum numbers; orbital shapes; orbital energies; effective nuclear charges
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table."
+{{< tdclose >}}
+{{< tdopen >}}
+Electron spin: the fourth quantum number; the Pauli principle; electron configurations of the elements
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -78,9 +150,36 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-05-atomic-orbitals-and-their-ener.html) 6.5, "Atomic Orbitals and Their Energies." | none | 1, 3, 5, 6, 7 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-05-atomic-orbitals-and-their-ener.html) 6.5, "Atomic Orbitals and Their Energies."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+1, 3, 5, 6, 7
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -129,9 +228,56 @@ Dick, Harold G. _The Golden Age of the Great Passenger Airships, Graf Zeppelin a
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008) | MIT OpenCourseWare | Undergraduate (first-year) | [Lecture 6: Hydrogen Atom Wavefunctions](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-6) |
-| [Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Hydrogen Atom](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/hydcn.html) | HyperPhysics | High school |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 6: Hydrogen Atom Wavefunctions](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Hydrogen Atom](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/hydcn.html)
+{{< tdclose >}}
+{{< tdopen >}}
+HyperPhysics
+{{< tdclose >}}
+{{< tdopen >}}
+High school
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/structure-of-the-atom/4-matter-energy-interactions) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/6-particle-wave-duality) »

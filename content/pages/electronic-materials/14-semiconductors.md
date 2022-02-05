@@ -11,11 +11,54 @@ uid: f218eec6-2b6b-13b4-b233-61a7fc3abb81
 Session Overview
 ----------------
 
-| **Modules** | Electronic Materials |
-| **Concepts** | band gaps in metals, semiconductors, and insulators, thermal excitation, photoexcitation, the Maxwell-Boltzmann distribution, intrinsic and extrinsic semiconductors, doped materials, compound semiconductors |
-| **Keywords** | Maxwell-Boltzmann distribution, donor level, charge carrier, bias voltage, semiconductor, n-type, p-type, silicon, germanium, carrier mobility, band gap, intrinsic semiconductor, extrinsic semiconductor, dopant, conductivity, photoexcitation, thermal excitation, valence band, conduction band, pair generation, aliovalent, supervalent, electron, hole, James Clerk Maxwell, Ludwig Boltzmann |
-| **Chemical Substances** | silicon (Si), germanium (Ge), phosphorous (P), gallium arsenide (GaAs), gallium phosphide (GaP) |
-| **Applications** | light-emitting diodes (LEDs) in traffic lights and electronics, CD/DVD optical discs (Blu-Ray), photosensors, point-junction transistors, microchips in computers (Pentium) and cell phones 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+band gaps in metals, semiconductors, and insulators, thermal excitation, photoexcitation, the Maxwell-Boltzmann distribution, intrinsic and extrinsic semiconductors, doped materials, compound semiconductors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+Maxwell-Boltzmann distribution, donor level, charge carrier, bias voltage, semiconductor, n-type, p-type, silicon, germanium, carrier mobility, band gap, intrinsic semiconductor, extrinsic semiconductor, dopant, conductivity, photoexcitation, thermal excitation, valence band, conduction band, pair generation, aliovalent, supervalent, electron, hole, James Clerk Maxwell, Ludwig Boltzmann
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+silicon (Si), germanium (Ge), phosphorous (P), gallium arsenide (GaAs), gallium phosphide (GaP)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+light-emitting diodes (LEDs) in traffic lights and electronics, CD/DVD optical discs (Blu-Ray), photosensors, point-junction transistors, microchips in computers (Pentium) and cell phones
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -45,9 +88,30 @@ Reading
 
 [Archived Lecture Notes #3 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln03)
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-06-bonding-in-metals-and-semicond.html) 12.6, "Bonding in Metals and Semiconductors." | Band theory; requirements for metallic behavior; insulators; semiconductors 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-06-bonding-in-metals-and-semicond.html) 12.6, "Bonding in Metals and Semiconductors."
+{{< tdclose >}}
+{{< tdopen >}}
+Band theory; requirements for metallic behavior; insulators; semiconductors
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -88,14 +152,137 @@ Heitler, Walter, and Fritz London. "[Wechselwirkung neutraler Atome und homöopo
 
 The resources listed below are selected from a wide variety of sites covering semiconductors and their applications. Motivated users are encouraged to search MIT OpenCourseWare and other sites for more advanced material based on their specific interests.
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Semiconductor Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/solids/semcn.html) | HyperPhysics | High School | &nbsp; |
-| [Introduction to Semiconductors](http://www.doitpoms.ac.uk/tlplib/semiconductors/index.php) | DoITPoMS | Undergraduate | &nbsp; |
-| [PV CDROM](http://www.pveducation.org/pvcdrom) | PVEducation.org | Undergraduate | Focuses on photovoltaic design and manufacturing; [Module 3: PN Junction](http://www.pveducation.org/pvcdrom/3-pn-junction/introduction-to-semiconductors) covers semiconductor basics. |
-| [Introduction to Semiconductors](http://cnx.org/content/m1001/latest/), [Doped Semiconductors](http://cnx.org/content/m1002/latest/) | Connexions | Undergraduate | &nbsp; |
-| [5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005) | MIT OpenCourseWare | Undergraduate (first-year) |  {{< br >}}{{< br >}} [Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-14-distribution-molecular-energies) (Maxwell-Boltzmann statistics) {{< br >}}{{< br >}} Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors) (semiconductors) {{< br >}}{{< br >}}  |
-| [6.012 Microelectronic Devices and Circuits](/courses/6-012-microelectronic-devices-and-circuits-fall-2005) | MIT OpenCourseWare | Undergraduate | Other semesters of this course are available: [Spring 2009](/courses/6-012-microelectronic-devices-and-circuits-spring-2009), [Fall 2009](/courses/6-012-microelectronic-devices-and-circuits-fall-2009) |
-| [6.152J/3.155J Micro/Nano Processing Technology](/courses/6-152j-micro-nano-processing-technology-fall-2005) | MIT OpenCourseWare | Undergraduate (elective) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Semiconductor Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/solids/semcn.html)
+{{< tdclose >}}
+{{< tdopen >}}
+HyperPhysics
+{{< tdclose >}}
+{{< tdopen >}}
+High School
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Introduction to Semiconductors](http://www.doitpoms.ac.uk/tlplib/semiconductors/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[PV CDROM](http://www.pveducation.org/pvcdrom)
+{{< tdclose >}}
+{{< tdopen >}}
+PVEducation.org
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+Focuses on photovoltaic design and manufacturing; [Module 3: PN Junction](http://www.pveducation.org/pvcdrom/3-pn-junction/introduction-to-semiconductors) covers semiconductor basics.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Introduction to Semiconductors](http://cnx.org/content/m1001/latest/), [Doped Semiconductors](http://cnx.org/content/m1002/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-14-distribution-molecular-energies) (Maxwell-Boltzmann statistics)
+
+Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors) (semiconductors)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[6.012 Microelectronic Devices and Circuits](/courses/6-012-microelectronic-devices-and-circuits-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+Other semesters of this course are available: [Spring 2009](/courses/6-012-microelectronic-devices-and-circuits-spring-2009), [Fall 2009](/courses/6-012-microelectronic-devices-and-circuits-fall-2009)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[6.152J/3.155J Micro/Nano Processing Technology](/courses/6-152j-micro-nano-processing-technology-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/electronic-materials/13-band-theory-of-solids) | [Next]({{< baseurl >}}/pages/electronic-materials/self-assessment-electronic-materials) »

@@ -11,11 +11,54 @@ uid: c567f1c9-3666-523f-ed70-cea0765d0080
 Session Overview
 ----------------
 
-| **Modules** | Electronic Materials |
-| **Concepts** | properties of metals and insulators, band theory of solids (Drude; Bloch; Heitler and London), band gaps in metals, semiconductors, and insulators |
-| **Keywords** | metallic bonding, free electron gas, band gap, electrical conductivity, Bloch wave, photoexcitation, charge carrier, metal, insulator, semiconductor, thermal conductivity, valence band, conduction band, antibonding orbital, bonding orbital, carrier mobility, absorption edge, thermal excitation, electron, hole, current, Paul Drude, Felix Bloch, Walter Heitler, Fritz London |
-| **Chemical Substances** | copper (Cu), beryllium (Be), diamond (C), silicon (Si), germanium (Ge), tin (Sn), lead (Pb) |
-| **Applications** | photovoltaics, photosensors, light-emitting diodes (LEDs), temperature sensors 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+properties of metals and insulators, band theory of solids (Drude; Bloch; Heitler and London), band gaps in metals, semiconductors, and insulators
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+metallic bonding, free electron gas, band gap, electrical conductivity, Bloch wave, photoexcitation, charge carrier, metal, insulator, semiconductor, thermal conductivity, valence band, conduction band, antibonding orbital, bonding orbital, carrier mobility, absorption edge, thermal excitation, electron, hole, current, Paul Drude, Felix Bloch, Walter Heitler, Fritz London
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+copper (Cu), beryllium (Be), diamond (C), silicon (Si), germanium (Ge), tin (Sn), lead (Pb)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+photovoltaics, photosensors, light-emitting diodes (LEDs), temperature sensors
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -41,13 +84,66 @@ Reading
 
 [Archived Lecture Notes #3 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln03)
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation Between Bonding and the Properties of Solids." | Ionic solids; molecular solids; covalent solids; metallic solids |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-06-bonding-in-metals-and-semicond.html) 12.6, "Bonding in Metals and Semiconductors." | Band theory; requirements for metallic behavior; insulators; semiconductors |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 2.4, "The Metallic Bond." | Metallic bonding; delocalized electrons; electronegativity |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 15.1, "Charge Carriers and Conduction." | Holes and electrons; Ohm's Law; resistivity/conductivity; carrier mobility and drift velocity |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 15.2, "Energy Levels and Energy Bands." | Pauli exclusion, Hund's rule, and orbital filling; energy bands and gaps; the Fermi function; thermal promotion; metals, insulators, and semiconductors 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation Between Bonding and the Properties of Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+Ionic solids; molecular solids; covalent solids; metallic solids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-06-bonding-in-metals-and-semicond.html) 12.6, "Bonding in Metals and Semiconductors."
+{{< tdclose >}}
+{{< tdopen >}}
+Band theory; requirements for metallic behavior; insulators; semiconductors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 2.4, "The Metallic Bond."
+{{< tdclose >}}
+{{< tdopen >}}
+Metallic bonding; delocalized electrons; electronegativity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 15.1, "Charge Carriers and Conduction."
+{{< tdclose >}}
+{{< tdopen >}}
+Holes and electrons; Ohm's Law; resistivity/conductivity; carrier mobility and drift velocity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 15.2, "Energy Levels and Energy Bands."
+{{< tdclose >}}
+{{< tdopen >}}
+Pauli exclusion, Hund's rule, and orbital filling; energy bands and gaps; the Fermi function; thermal promotion; metals, insulators, and semiconductors
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -90,9 +186,56 @@ Heitler, Walter, and Fritz London. "[Wechselwirkung neutraler Atome und homöopo
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Introduction to Semiconductors](http://www.doitpoms.ac.uk/tlplib/semiconductors/index.php) | DoITPoMS | Undergraduate | See "[Introduction to Energy Bands](http://www.doitpoms.ac.uk/tlplib/semiconductors/energy_band_intro.php)." |
-| [5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005) | MIT OpenCourseWare | Undergraduate (first-year) | Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Introduction to Semiconductors](http://www.doitpoms.ac.uk/tlplib/semiconductors/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+See "[Introduction to Energy Bands](http://www.doitpoms.ac.uk/tlplib/semiconductors/energy_band_intro.php)."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/electronic-materials) | [Next]({{< baseurl >}}/pages/electronic-materials/14-semiconductors) »

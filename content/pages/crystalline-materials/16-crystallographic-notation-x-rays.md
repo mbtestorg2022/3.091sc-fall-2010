@@ -11,11 +11,54 @@ uid: e22836d9-83d9-ad9c-8310-e4357bb64a92
 Session Overview
 ----------------
 
-| **Modules** | Crystalline Materials |
-| **Concepts** | crystal coordinate systems, Miller indices, introduction to x-rays, generation of x-rays |
-| **Keywords** | Bravais lattice, crystal system, unit cell, face-centered cubic, simple cubic, body-centered cubic, Miller indices, crystallography, crystallographic notation, lattice constant, close-packing, packing density, lattice point, interplanar spacing, gas discharge tube, x-ray tube, target anode, discovery of x-rays, scintillation screen, characteristic emission lines, Kα, Kβ, Lα, Lβ, William H. Miller, Wilhelm Röntgen |
-| **Chemical Substances** | barium platinum cyanide (BaPt(CN)4), copper (Cu), brass (Cu-Zn), zinc (Zn), wood, steel |
-| **Applications** | x-ray spectroscopy, medical/dental x-rays, quality assurance of welds, airport baggage scans 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Crystalline Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+crystal coordinate systems, Miller indices, introduction to x-rays, generation of x-rays
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+Bravais lattice, crystal system, unit cell, face-centered cubic, simple cubic, body-centered cubic, Miller indices, crystallography, crystallographic notation, lattice constant, close-packing, packing density, lattice point, interplanar spacing, gas discharge tube, x-ray tube, target anode, discovery of x-rays, scintillation screen, characteristic emission lines, Kα, Kβ, Lα, Lβ, William H. Miller, Wilhelm Röntgen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+barium platinum cyanide (BaPt(CN)4), copper (Cu), brass (Cu-Zn), zinc (Zn), wood, steel
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+x-ray spectroscopy, medical/dental x-rays, quality assurance of welds, airport baggage scans
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -48,11 +91,48 @@ Reading
 
 [Archived Lecture Notes #5 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln05), Section 1
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids." | The unit cell; packing of spheres |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.2, "Metal Structures." | Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close-packed structures; atomic packing factor; plane stacking |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.6, "Lattice Positions, Directions, and Planes." | Lattice points and translations; lattice directions and planes; Miller indices; families of directions and planes; planar and linear atomic density 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-02-the-arrangement-of-atoms-in-cr.html) 12.2, "The Arrangement of Atoms in Crystalline Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+The unit cell; packing of spheres
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.2, "Metal Structures."
+{{< tdclose >}}
+{{< tdopen >}}
+Body-centered cubic, face-centered cubic/cubic close-packed, and hexagonal close-packed structures; atomic packing factor; plane stacking
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 3.6, "Lattice Positions, Directions, and Planes."
+{{< tdclose >}}
+{{< tdopen >}}
+Lattice points and translations; lattice directions and planes; Miller indices; families of directions and planes; planar and linear atomic density
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -95,9 +175,56 @@ Thomas, A. M. K. _The Invisible Light: 100 Years of Medical Radiology_. Cambridg
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Lattice Planes and Miller Indices](http://www.doitpoms.ac.uk/tlplib/miller_indices/index.php) | DoITPoMS | Undergraduate | &nbsp; |
-| [Crystal Structure](http://cnx.org/content/m16927/latest/) | Connexions | Undergraduate |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Lattice Planes and Miller Indices](http://www.doitpoms.ac.uk/tlplib/miller_indices/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Crystal Structure](http://cnx.org/content/m16927/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography) | [Next]({{< baseurl >}}/pages/crystalline-materials/17-x-ray-emission-absorption) »

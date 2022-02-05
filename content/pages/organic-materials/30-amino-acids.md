@@ -11,11 +11,54 @@ uid: 1391526c-977f-6e58-b0c0-b163bcae3d50
 Session Overview
 ----------------
 
-| **Modules** | Organic Materials |
-| **Concepts** | amino acids, peptides, proteins |
-| **Keywords** | molecular biology, biomolecule, amino acid, polymer, protein, pH, Brønsted base, amine group, carboxylic acid, alpha carbon, substituent, hydrophilic, chirality, enantiomer, optical activity, polarized light, dextrorotatory, levorotatory, sugars, invert sugar, racemic, teratogenic, zwitterions, Henderson-Hasselbalch equation, protonation, Le Châtelier principle |
-| **Chemical Substances** | thalidomide, Ritalin, trinitrotoluene (TNT) |
-| **Applications** | biology, pharmaceuticals, explosives 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Organic Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+amino acids, peptides, proteins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+molecular biology, biomolecule, amino acid, polymer, protein, pH, Brønsted base, amine group, carboxylic acid, alpha carbon, substituent, hydrophilic, chirality, enantiomer, optical activity, polarized light, dextrorotatory, levorotatory, sugars, invert sugar, racemic, teratogenic, zwitterions, Henderson-Hasselbalch equation, protonation, Le Châtelier principle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+thalidomide, Ritalin, trinitrotoluene (TNT)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+biology, pharmaceuticals, explosives
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -40,12 +83,57 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids." | Introduction to biological polymers (peptides and proteins) |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-06-the-molecules-of-life.html) 24.6, "The Molecules of Life." | Survey of proteins, carbohydrates, lipids, and nucleic acids |
-| [\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 17-1 through 17-4 in Chapter 17, "Amino Acids, Peptides, and Proteins." | Overview and configurations of the 20 common amino acids; acid-base properties; isoelectric point pI |
-| [\[RH\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#rh) 3, "Amino Acids and the Primary Structures of Proteins." | General structure of amino acids; details on each of the 20 common amino acids; other amino acids and derivatives; ionization of amino acids; creating proteins with peptide bond links 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to biological polymers (peptides and proteins)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s28-06-the-molecules-of-life.html) 24.6, "The Molecules of Life."
+{{< tdclose >}}
+{{< tdopen >}}
+Survey of proteins, carbohydrates, lipids, and nucleic acids
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[PB-EOC\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#pb-eoc) 17-1 through 17-4 in Chapter 17, "Amino Acids, Peptides, and Proteins."
+{{< tdclose >}}
+{{< tdopen >}}
+Overview and configurations of the 20 common amino acids; acid-base properties; isoelectric point pI
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[RH\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#rh) 3, "Amino Acids and the Primary Structures of Proteins."
+{{< tdclose >}}
+{{< tdopen >}}
+General structure of amino acids; details on each of the 20 common amino acids; other amino acids and derivatives; ionization of amino acids; creating proteins with peptide bond links
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -82,9 +170,36 @@ Homework
 
 ### Textbook Problems
 
-| \[saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids." | 1 | none 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-08-polymeric-solids.html) 12.8, "Polymeric Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -101,8 +216,41 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011) | MIT OpenCourseWare | Undergraduate (first-year) | See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[7.01SC Fundamentals of Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+See [Unit 1: Biochemistry](/courses/7-01sc-fundamentals-of-biology-fall-2011/pages/biochemistry)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/organic-materials/29-polymers-synthesis-properties-applications) | [Next]({{< baseurl >}}/pages/organic-materials/31-protein-structure) »

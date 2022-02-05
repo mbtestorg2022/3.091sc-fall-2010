@@ -11,11 +11,54 @@ uid: 2d99a337-8fc4-7f5c-57d3-d1e5a4dc19a3
 Session Overview
 ----------------
 
-| **Modules** | Aqueous Solutions |
-| **Concepts** | solute, solvent, solution, solubility rules, solubility product |
-| **Keywords** | water, mixture, colloid, ionic compound, van der Waals force, Madelung constant, suspension, dispersion, molarity, crystallization, miscibility, precipitation, equilibrium constant, saturation, conductivity, common ion effect, homogenization, Arrhenius |
-| **Chemical Substances** | carbon tetrachloride (CCl4), potassium permanganate (KMgO4), silver chloride (AgCl) |
-| **Applications** | water desalinization, glass manufacturing, bulk metallic glass 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Aqueous Solutions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+solute, solvent, solution, solubility rules, solubility product
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+water, mixture, colloid, ionic compound, van der Waals force, Madelung constant, suspension, dispersion, molarity, crystallization, miscibility, precipitation, equilibrium constant, saturation, conductivity, common ion effect, homogenization, Arrhenius
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+carbon tetrachloride (CCl4), potassium permanganate (KMgO4), silver chloride (AgCl)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+water desalinization, glass manufacturing, bulk metallic glass
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -37,13 +80,66 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-01-factors-affecting-solution-for.html) 13.1, "Factors Affecting Solution Formation." | Forming a solution; roles of enthalpy and entropy |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-02-solubility-and-molecular-struc.html) 13.2, "Solubility and Molecular Structure." | Factors affecting solubility; molecular interactions in liquids; solutions of solids; solubility of ionic substances |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-03-units-of-concentration.html) 13.3, "Units of Concentration." | Molarity and mole fraction as measures of concentration |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-01-determining-the-solubility-of-.html) 17.1, "Determining the Solubility of Ionic Compounds." | Solubility product Ksp, ion product, common ion effect |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-04-solubility-and-ph.html) 17.4, "Solubility and pH." | Acid-base equilibriua effects on solubility; basic, acidic, and amphoteric oxides; using pH for selective precipation 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-01-factors-affecting-solution-for.html) 13.1, "Factors Affecting Solution Formation."
+{{< tdclose >}}
+{{< tdopen >}}
+Forming a solution; roles of enthalpy and entropy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-02-solubility-and-molecular-struc.html) 13.2, "Solubility and Molecular Structure."
+{{< tdclose >}}
+{{< tdopen >}}
+Factors affecting solubility; molecular interactions in liquids; solutions of solids; solubility of ionic substances
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s17-03-units-of-concentration.html) 13.3, "Units of Concentration."
+{{< tdclose >}}
+{{< tdopen >}}
+Molarity and mole fraction as measures of concentration
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-01-determining-the-solubility-of-.html) 17.1, "Determining the Solubility of Ionic Compounds."
+{{< tdclose >}}
+{{< tdopen >}}
+Solubility product Ksp, ion product, common ion effect
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-04-solubility-and-ph.html) 17.4, "Solubility and pH."
+{{< tdclose >}}
+{{< tdopen >}}
+Acid-base equilibriua effects on solubility; basic, acidic, and amphoteric oxides; using pH for selective precipation
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -69,9 +165,36 @@ Homework
 
 ### Textbook Problems
 
-| \[saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-01-determining-the-solubility-of-.html) 17.1, "Determining the Solubility of Ionic Compounds." | 1, 6 | 2, 3, 10, 18, 21 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s21-01-determining-the-solubility-of-.html) 17.1, "Determining the Solubility of Ionic Compounds."
+{{< tdclose >}}
+{{< tdopen >}}
+1, 6
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3, 10, 18, 21
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------

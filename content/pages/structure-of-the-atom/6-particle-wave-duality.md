@@ -11,11 +11,54 @@ uid: acd5af93-6551-c69a-d7d6-8b73d9226daa
 Session Overview
 ----------------
 
-| **Modules** | Structure of the Atom |
-| **Concepts** | electron orbital filling: Aufbau principle, Pauli exclusion principle, and Hund's rule, photoelectron spectroscopy, average valence electron energy, quantum mechanics: wave/particle duality, Heisenberg uncertainty principle, Schrödinger equation |
-| **Keywords** | Louis de Broglie, Werner Heisenberg, Heisenberg uncertainty principle, Aufbau principle, Wolfgang Pauli, Pauli exclusion principle, Friedrich Hund, Hund's rule, Erwin Schrödinger, Schrödinger equation, quantum number, principal quantum number, angular momentum, magnetic quantum number, electron filling order, electron occupancy, orbital degeneracy, electron configuration, photon, standing wave, destructive interference, constructive interference, metal crystals, x-ray analysis, electron diffraction, matter waves, simple harmonic oscillator, wave equation, eigenfunction, radial probability density, nodes, nodal plane, spectral line splitting, electron spin |
-| **Chemical Substances** | carbon (C), hydrogen (H) |
-| **Applications** | ray optics, wave mechanics 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of the Atom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+electron orbital filling: Aufbau principle, Pauli exclusion principle, and Hund's rule, photoelectron spectroscopy, average valence electron energy, quantum mechanics: wave/particle duality, Heisenberg uncertainty principle, Schrödinger equation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+Louis de Broglie, Werner Heisenberg, Heisenberg uncertainty principle, Aufbau principle, Wolfgang Pauli, Pauli exclusion principle, Friedrich Hund, Hund's rule, Erwin Schrödinger, Schrödinger equation, quantum number, principal quantum number, angular momentum, magnetic quantum number, electron filling order, electron occupancy, orbital degeneracy, electron configuration, photon, standing wave, destructive interference, constructive interference, metal crystals, x-ray analysis, electron diffraction, matter waves, simple harmonic oscillator, wave equation, eigenfunction, radial probability density, nodes, nodal plane, spectral line splitting, electron spin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+carbon (C), hydrogen (H)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+ray optics, wave mechanics
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -44,10 +87,39 @@ Reading
 
 [Archived Lecture Notes #2 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln02), Section 3
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass." | The wave character of matter; standing waves; the Heisenberg uncertainty principle |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table." | Electron spin: the fourth quantum number; the Pauli principle; electron configuration of the elements 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass."
+{{< tdclose >}}
+{{< tdopen >}}
+The wave character of matter; standing waves; the Heisenberg uncertainty principle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table."
+{{< tdclose >}}
+{{< tdopen >}}
+Electron spin: the fourth quantum number; the Pauli principle; electron configuration of the elements
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -81,9 +153,36 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass." | none | 2, 3, 4, 5, 6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-04-the-relationship-between-energ.html) 6.4, "The Relationship between Energy and Mass."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3, 4, 5, 6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -122,9 +221,62 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008) | MIT OpenCourseWare | Undergraduate (first-year) |  {{< br >}}{{< br >}} [Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-3) {{< br >}}{{< br >}} [Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-4) {{< br >}}{{< br >}}  |
-| [Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Schrödinger Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schrcn.html) | HyperPhysics | High school |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-3)
+
+[Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-4)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Schrödinger Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schrcn.html)
+{{< tdclose >}}
+{{< tdopen >}}
+HyperPhysics
+{{< tdclose >}}
+{{< tdopen >}}
+High school
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) »

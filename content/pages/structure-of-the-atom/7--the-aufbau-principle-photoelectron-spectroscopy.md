@@ -11,11 +11,54 @@ uid: d0470d3e-350a-e01c-66ab-ad1825f65352
 Session Overview
 ----------------
 
-| **Modules** | Structure of the Atom |
-| **Concepts** | ionic bonding: octet stability by electron transfer, properties of ionic compounds, ionic lattice energy, and ionization energies, electron filling order, quantum numbers (n, l, m, s), photoelectron spectroscopy |
-| **Keywords** | Erwin Schrödinger, electron orbital, Aufbau principle, quantum numbers, wavefunction, eigenfunction, Schrödinger equation, simple harmonic oscillator, wave equation, atomic number, ionic separation, valence electrons, valence shell, average valence electron energy (AVEE), covalent bond, ionic bond, ionic compound, melting point, noble gases, valence shell occupancy, primary bond, metal, nonmetal, semimetal, metalloid |
-| **Chemical Substances** | magnesium (Mg) |
-| **Applications** | gas dynamics, crystals, electrometallurgy, applications of magnesium (Mg) – e.g. substitute for steel in automobiles 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of the Atom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+ionic bonding: octet stability by electron transfer, properties of ionic compounds, ionic lattice energy, and ionization energies, electron filling order, quantum numbers (n, l, m, s), photoelectron spectroscopy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+Erwin Schrödinger, electron orbital, Aufbau principle, quantum numbers, wavefunction, eigenfunction, Schrödinger equation, simple harmonic oscillator, wave equation, atomic number, ionic separation, valence electrons, valence shell, average valence electron energy (AVEE), covalent bond, ionic bond, ionic compound, melting point, noble gases, valence shell occupancy, primary bond, metal, nonmetal, semimetal, metalloid
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+magnesium (Mg)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+gas dynamics, crystals, electrometallurgy, applications of magnesium (Mg) – e.g. substitute for steel in automobiles
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -44,10 +87,39 @@ Reading
 
 [Archived Lecture Notes #1 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln01), Section 4
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table." | Electron spin: the fourth quantum number; the Pauli principle; electron configurations of the elements |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation." | Ionization energies; electron affinities; electronegativity 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s10-06-building-up-the-periodic-table.html) 6.6, "Building Up the Periodic Table."
+{{< tdclose >}}
+{{< tdopen >}}
+Electron spin: the fourth quantum number; the Pauli principle; electron configurations of the elements
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-03-energetics-of-ion-formation.html) 7.3, "Energetics of Ion Formation."
+{{< tdclose >}}
+{{< tdopen >}}
+Ionization energies; electron affinities; electronegativity
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -74,12 +146,72 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-01-an-overview-of-chemical-bondin.html) 8.1, "An Overview of Chemical Bonding." | 1 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-02-ionic-bonding.html) 8.2, "Ionic Bonding." | 5, 6 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-03-lattice-energies-in-ionic-soli.html) 8.3, "Lattice Energies in Ionic Solids." | 2, 3, 4, 5, 8 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation Between Bonding and the Properties of Solids." | 2, 4 | none 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-01-an-overview-of-chemical-bondin.html) 8.1, "An Overview of Chemical Bonding."
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-02-ionic-bonding.html) 8.2, "Ionic Bonding."
+{{< tdclose >}}
+{{< tdopen >}}
+5, 6
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s12-03-lattice-energies-in-ionic-soli.html) 8.3, "Lattice Energies in Ionic Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3, 4, 5, 8
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-05-correlation-between-bonding-an.html) 12.5, "Correlation Between Bonding and the Properties of Solids."
+{{< tdclose >}}
+{{< tdopen >}}
+2, 4
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------

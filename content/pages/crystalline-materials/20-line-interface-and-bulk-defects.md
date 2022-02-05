@@ -11,11 +11,54 @@ uid: 5c00821f-505a-eeee-270d-29caeda060dc
 Session Overview
 ----------------
 
-| **Module** | Crystalline Materials |
-| **Concepts** | defects in crystals: line defects, interfacial defects, grain boundaries, and voids, motion of dislocations, effect of impurities on solid-state material properties |
-| **Keywords** | yield stress, strain, shear stress, line defect, surface energy, edge dislocation, screw dislocation, dislocation motion, catalysis, corrosion, grain boundary, annealing, vacancy, single-crystal, polycrystalline, precipitation strengthening, ductility, slip, voids, solution hardening, elastic deformation, plastic deformation, chemical metallurgy, physical metallurgy, Hooke’s law, fracture, close-packed, dislocation glide, toughness, hardness, brittle |
-| **Chemical Substances** | steel, aluminum-copper alloy (Al-Cu), silica (SiO2), calcia (CaO), alumina (Al2O3) |
-| **Applications** | aluminum can, steel production, aluminum-copper for airplanes, rivets on the Titanic 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Module**
+{{< tdclose >}}
+{{< tdopen >}}
+Crystalline Materials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+defects in crystals: line defects, interfacial defects, grain boundaries, and voids, motion of dislocations, effect of impurities on solid-state material properties
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+yield stress, strain, shear stress, line defect, surface energy, edge dislocation, screw dislocation, dislocation motion, catalysis, corrosion, grain boundary, annealing, vacancy, single-crystal, polycrystalline, precipitation strengthening, ductility, slip, voids, solution hardening, elastic deformation, plastic deformation, chemical metallurgy, physical metallurgy, Hooke’s law, fracture, close-packed, dislocation glide, toughness, hardness, brittle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+steel, aluminum-copper alloy (Al-Cu), silica (SiO2), calcia (CaO), alumina (Al2O3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+aluminum can, steel production, aluminum-copper for airplanes, rivets on the Titanic
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -42,11 +85,48 @@ Reading
 
 [Archived Lecture Notes #6 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln06), Sections 3-4
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals." | Defects in metals, memory metal, defects in ionic and molecular crystals, non-stoichiometric compounds |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.3, "Linear Defects, or Dislocations – One-Dimensional Imperfections." | Burgers vector; edge, screw, mixed, and partial dislocations |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.4, "Planar Defects – Two-Dimensional Imperfections." | Twin boundaries, crystal surfaces, and grain boundaries; tilt boundaries, coincident site lattices, and dislocations; grain-size number 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
+{{< tdclose >}}
+{{< tdopen >}}
+Defects in metals, memory metal, defects in ionic and molecular crystals, non-stoichiometric compounds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.3, "Linear Defects, or Dislocations – One-Dimensional Imperfections."
+{{< tdclose >}}
+{{< tdopen >}}
+Burgers vector; edge, screw, mixed, and partial dislocations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 4.4, "Planar Defects – Two-Dimensional Imperfections."
+{{< tdclose >}}
+{{< tdopen >}}
+Twin boundaries, crystal surfaces, and grain boundaries; tilt boundaries, coincident site lattices, and dislocations; grain-size number
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -70,9 +150,36 @@ Homework
 
 ### Textbook Problems
 
-| \[saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals." | 2, 3, 4, 5 | none 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s16-04-defects-in-crystals.html) 12.4, "Defects in Crystals."
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3, 4, 5
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -99,10 +206,71 @@ Horner, James, and Will Jennings. "My Heart Will Go On (Theme from _Titanic_)." 
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [Introduction to Dislocations](http://www.doitpoms.ac.uk/tlplib/dislocations/index.php) | DoITPoMS | Undergraduate | &nbsp; |
-| [3.14/3.40J/22.71J Physical Metallurgy](/courses/3-40j-physical-metallurgy-fall-2009) | MIT OpenCourseWare | Undergraduate (elective) / Graduate | &nbsp; |
-| [Crystal Structure](http://cnx.org/content/m16927/latest/) | Connexions | Undergraduate |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Introduction to Dislocations](http://www.doitpoms.ac.uk/tlplib/dislocations/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[3.14/3.40J/22.71J Physical Metallurgy](/courses/3-40j-physical-metallurgy-fall-2009)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective) / Graduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Crystal Structure](http://cnx.org/content/m16927/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/crystalline-materials/19-point-and-line-defects) | [Next]({{< baseurl >}}/pages/crystalline-materials/self-assessment-crystalline-materials) »

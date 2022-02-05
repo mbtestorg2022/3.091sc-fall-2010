@@ -11,11 +11,54 @@ uid: a13b8975-9fdc-1778-eea3-68cb5be8fef0
 Session Overview
 ----------------
 
-| **Modules** | Structure of the Atom |
-| **Concepts** | classification schemes for the elements, periodic table, atomic structure, stoichiometry |
-| **Keywords** | periodic table, matter, atom, John Dalton, compound, electron number, proton number, neutron number, electron, proton, neutron, electron charge, proton charge, elementary charge, wavelength, frequency, energy, superheavy, Dmitri Mendeleev, conservation of mass, bomb reactor, gas, liquid, solid, electronegativity, chemical reaction, chemical equation, chemical symbol, chemical formula, atomic mass, atomic mass unit, atomic weight, atomic number, neutral atom, ion, ionization energy, mass number, stoichiometry, mole, isotope, isotopic abundance, coulomb, degrees Kelvin, Jöns Berzelius, Amedeo Avogadro, Michael Faraday, quantized electric charge, Faraday's constant, Robert Millikan, oil drop experiment, Avogadro's number, Alexander Borodin |
-| **Chemical Substances** | carbon (C), titanium (Ti), ekasilicon (Es), germanium (Ge) |
-| **Applications** | Kroll process for producing titanium metal 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Structure of the Atom
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+classification schemes for the elements, periodic table, atomic structure, stoichiometry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+periodic table, matter, atom, John Dalton, compound, electron number, proton number, neutron number, electron, proton, neutron, electron charge, proton charge, elementary charge, wavelength, frequency, energy, superheavy, Dmitri Mendeleev, conservation of mass, bomb reactor, gas, liquid, solid, electronegativity, chemical reaction, chemical equation, chemical symbol, chemical formula, atomic mass, atomic mass unit, atomic weight, atomic number, neutral atom, ion, ionization energy, mass number, stoichiometry, mole, isotope, isotopic abundance, coulomb, degrees Kelvin, Jöns Berzelius, Amedeo Avogadro, Michael Faraday, quantized electric charge, Faraday's constant, Robert Millikan, oil drop experiment, Avogadro's number, Alexander Borodin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+carbon (C), titanium (Ti), ekasilicon (Es), germanium (Ge)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+Kroll process for producing titanium metal
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -44,15 +87,84 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses." | Isotopes and atomic masses |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-07-introduction-to-the-periodic-t.html) 1.7, "Introduction to the Periodic Table." | Metals, nonmetals, and semimetals; chemistry of the groups |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-01-the-mole-and-molar-masses.html) 3.1, "The Mole and Molar Masses." | Molecular and formula masses; the mole; molar mass |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-02-determining-empirical-and-mole.html) 3.2, "Determining Empirical and Molecular Formulas." | Calculating mass percentages; determining the empirical formula of penicillin; combustion analysis; from empirical formula to molecular formula |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-03-chemical-equations.html) 3.3, "Chemical Equations." | Interpreting chemical equations; balancing simple chemical equations |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-04-mass-relationships-in-chemical.html) 3.4, "Mass Relationships in Chemical Equations." | Stoichiometry problems; limiting reactants; percent yields |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-01-the-history-of-the-periodic-ta.html) 7.1, "The History of the Periodic Table." (only read until "Mendeleev's Periodic Table") | Arrangements of elements before Mendeleev 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses."
+{{< tdclose >}}
+{{< tdopen >}}
+Isotopes and atomic masses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-07-introduction-to-the-periodic-t.html) 1.7, "Introduction to the Periodic Table."
+{{< tdclose >}}
+{{< tdopen >}}
+Metals, nonmetals, and semimetals; chemistry of the groups
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-01-the-mole-and-molar-masses.html) 3.1, "The Mole and Molar Masses."
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular and formula masses; the mole; molar mass
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-02-determining-empirical-and-mole.html) 3.2, "Determining Empirical and Molecular Formulas."
+{{< tdclose >}}
+{{< tdopen >}}
+Calculating mass percentages; determining the empirical formula of penicillin; combustion analysis; from empirical formula to molecular formula
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-03-chemical-equations.html) 3.3, "Chemical Equations."
+{{< tdclose >}}
+{{< tdopen >}}
+Interpreting chemical equations; balancing simple chemical equations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-04-mass-relationships-in-chemical.html) 3.4, "Mass Relationships in Chemical Equations."
+{{< tdclose >}}
+{{< tdopen >}}
+Stoichiometry problems; limiting reactants; percent yields
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s11-01-the-history-of-the-periodic-ta.html) 7.1, "The History of the Periodic Table." (only read until "Mendeleev's Periodic Table")
+{{< tdclose >}}
+{{< tdopen >}}
+Arrangements of elements before Mendeleev
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -90,11 +202,60 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses." | 3, 5, 7 | 2, 5, 6, 14 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-03-chemical-equations.html) 3.3, "Chemical Equations." | none | 2 |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-04-mass-relationships-in-chemical.html) 3.4, "Mass Relationships in Chemical Equations." | none | 12, 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s05-06-isotopes-and-atomic-masses.html) 1.6, "Isotopes and Atomic Masses."
+{{< tdclose >}}
+{{< tdopen >}}
+3, 5, 7
+{{< tdclose >}}
+{{< tdopen >}}
+2, 5, 6, 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-03-chemical-equations.html) 3.3, "Chemical Equations."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s07-04-mass-relationships-in-chemical.html) 3.4, "Mass Relationships in Chemical Equations."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+12, 25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -157,10 +318,79 @@ Lehrer, T. _The Remains of Tom Lehrer_. Los Angeles, CA: Warner Archives/Rhino, 
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008) | MIT OpenCourseWare | Undergraduate (first-year) |  {{< br >}}{{< br >}} [Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2) {{< br >}}{{< br >}} [Lecture 9: Periodic Trends](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-9) {{< br >}}{{< br >}} [Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10) {{< br >}}{{< br >}}  |
-| [Stoichiometry Tutorial](http://www.chemcollective.org/stoich/reaction_stoi.php) | ChemCollective, CMU Open Learning Initiative | High school | &nbsp; |
-| [Atoms and Elements](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/atom.html), [The Periodic Table](http://hyperphysics.phy-astr.gsu.edu/hbase/pertab/pertab.html) | HyperPhysics: Chemistry | High school |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2)
+
+[Lecture 9: Periodic Trends](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-9)
+
+[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Stoichiometry Tutorial](http://www.chemcollective.org/stoich/reaction_stoi.php)
+{{< tdclose >}}
+{{< tdopen >}}
+ChemCollective, CMU Open Learning Initiative
+{{< tdclose >}}
+{{< tdopen >}}
+High school
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Atoms and Elements](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/atom.html), [The Periodic Table](http://hyperphysics.phy-astr.gsu.edu/hbase/pertab/pertab.html)
+{{< tdclose >}}
+{{< tdopen >}}
+HyperPhysics: Chemistry
+{{< tdclose >}}
+{{< tdopen >}}
+High school
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) | [Next]({{< baseurl >}}/pages/structure-of-the-atom/3-atomic-models) »

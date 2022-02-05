@@ -11,11 +11,54 @@ uid: 7a815988-3da3-035d-e473-14306ab4f684
 Session Overview
 ----------------
 
-| **Modules** | Solid Solutions |
-| **Concepts** | two-component phase diagrams: limited solid solubility (Type 3) |
-| **Keywords** | binary phase diagram, liquidus, solidus, metallurgy, lenticular, syncline, eutectic, solvus, alpha and beta structures, lamellar structure |
-| **Chemical Substances** | solutions of ethylene glycol – water, chloride salt – water, cubic zirconia, aluminum-magnesium, lead-tin, aluminum-copper, aluminum-magnesium, iron-sulfur, ethanol-water |
-| **Applications** | automobile antifreeze/coolant, deicing, manufacturing aluminum beverage cans, metallurgical failure analysis, aircraft metals, champagne 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Solid Solutions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+two-component phase diagrams: limited solid solubility (Type 3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+binary phase diagram, liquidus, solidus, metallurgy, lenticular, syncline, eutectic, solvus, alpha and beta structures, lamellar structure
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+solutions of ethylene glycol – water, chloride salt – water, cubic zirconia, aluminum-magnesium, lead-tin, aluminum-copper, aluminum-magnesium, iron-sulfur, ethanol-water
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+automobile antifreeze/coolant, deicing, manufacturing aluminum beverage cans, metallurgical failure analysis, aircraft metals, champagne
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -35,10 +78,39 @@ Reading
 
 [Archived Lecture Notes #10 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10), Part B and [#10 Supplement (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln10s)
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule." | Discussion of phase, component, and state; Gibbs phase rule; unary (one-component) phase diagram |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.2, "The Phase Diagram." | Binary phase diagrams; complete solid solutions; eutectic diagrams with no solid and limited solid solutions 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.1, "The Phase Rule."
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of phase, component, and state; Gibbs phase rule; unary (one-component) phase diagram
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 9.2, "The Phase Diagram."
+{{< tdclose >}}
+{{< tdopen >}}
+Binary phase diagrams; complete solid solutions; eutectic diagrams with no solid and limited solid solutions
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -91,9 +163,56 @@ For Further Study
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [3.012 Fundamentals of Material Science](/courses/3-012-fundamentals-of-materials-science-fall-2005) | MIT OpenCourseWare | Undergraduate (second-year) | See [Thermodynamics lectures 17-19](/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes) on multi-phase and binary phase diagrams, plus associated recitation and assignment content |
-| [Phase Diagrams and Solidification](http://www.doitpoms.ac.uk/tlplib/phase-diagrams/index.php), [Solid Solutions](http://www.doitpoms.ac.uk/tlplib/solid-solutions/index.php) | DoITPoMS | Undergraduate |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[3.012 Fundamentals of Material Science](/courses/3-012-fundamentals-of-materials-science-fall-2005)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (second-year)
+{{< tdclose >}}
+{{< tdopen >}}
+See [Thermodynamics lectures 17-19](/courses/3-012-fundamentals-of-materials-science-fall-2005/pages/lecture-notes) on multi-phase and binary phase diagrams, plus associated recitation and assignment content
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Phase Diagrams and Solidification](http://www.doitpoms.ac.uk/tlplib/phase-diagrams/index.php), [Solid Solutions](http://www.doitpoms.ac.uk/tlplib/solid-solutions/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/solid-solutions/34-binary-phase-diagrams-complete-solubility) | [Next]({{< baseurl >}}/pages/solid-solutions/self-assessment-solid-solutions) »

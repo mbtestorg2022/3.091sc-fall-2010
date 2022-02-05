@@ -11,11 +11,54 @@ uid: 42a1890e-d13b-2cc6-5e88-6c8f69ce55f5
 Session Overview
 ----------------
 
-| **Modules** | Bonding and Molecules |
-| **Concepts** | shapes of molecules: valence shell electron pair repulsion (VSEPR), sigma and pi bonds, and octet stability |
-| **Keywords** | bonding electron, nonbonding electron, hybridized orbital, linear combination of atomic orbitals–molecular orbitals (LCAO-MO), valence shell electron pair repulsion (VSEPR), octahedral, square pyramidal, square planar, trigonal bipyramid, polar bond, non-polar bond, planar, see-saw conformation, dipole, refractive index, electrical conductivity, covalent bond, ionic bond, expanded octet, electron domain, lone pair, molecular skeleton, Lewis structure, bonding orbital, sigma bond, pi bond, triple bond, octet rule |
-| **Chemical Substances** | ethylene (C2H4), methane (CH4), carbon (C), acetylene (C2H2), titanium tetrachloride (TiCl4), sulfur hexafluoride (SF6), bromine pentafluoride (BrF5), iodine tetrafluoride (IF4\-) |
-| **Applications** | None 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Bonding and Molecules
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+shapes of molecules: valence shell electron pair repulsion (VSEPR), sigma and pi bonds, and octet stability
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+bonding electron, nonbonding electron, hybridized orbital, linear combination of atomic orbitals–molecular orbitals (LCAO-MO), valence shell electron pair repulsion (VSEPR), octahedral, square pyramidal, square planar, trigonal bipyramid, polar bond, non-polar bond, planar, see-saw conformation, dipole, refractive index, electrical conductivity, covalent bond, ionic bond, expanded octet, electron domain, lone pair, molecular skeleton, Lewis structure, bonding orbital, sigma bond, pi bond, triple bond, octet rule
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+ethylene (C2H4), methane (CH4), carbon (C), acetylene (C2H2), titanium tetrachloride (TiCl4), sulfur hexafluoride (SF6), bromine pentafluoride (BrF5), iodine tetrafluoride (IF4\-)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -39,9 +82,30 @@ After completing this session, you should be able to:
 Reading
 -------
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions." | The VSEPR model; using the VSEPR model; molecular dipole moments 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."
+{{< tdclose >}}
+{{< tdopen >}}
+The VSEPR model; using the VSEPR model; molecular dipole moments
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -70,18 +134,95 @@ Homework
 
 ### Textbook Problems
 
-| \[Saylor\] Sections | Conceptual | Numerical |
-| --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions." | 1, 3, 7, 14 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-04-polyatomic-systems-with-multip.html) 9.4, "Polyatomic Systems with Multiple Bonds." | 1 | none 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[Saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-01-predicting-the-geometry-of-mol.html) 9.1, "Predicting the Geometry of Molecules and Polyatomic Ions."
+{{< tdclose >}}
+{{< tdopen >}}
+1, 3, 7, 14
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s13-04-polyatomic-systems-with-multip.html) 9.4, "Polyatomic Systems with Multiple Bonds."
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008) | MIT OpenCourseWare | Undergraduate (first-year) |  {{< br >}}{{< br >}} [Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-15) {{< br >}}{{< br >}} [Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-16) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (first-year)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-15)
+
+[Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-16)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/bonding-and-molecules/10.-hybridized-molecular-orbitals-paramagnetism) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/12.-intermolecular-forces) »

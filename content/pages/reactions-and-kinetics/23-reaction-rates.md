@@ -11,11 +11,54 @@ uid: 568956d9-4b5b-b4e9-70b5-553efd337767
 Session Overview
 ----------------
 
-| **Modules** | Reactions and Kinetics |
-| **Concepts** | chemical kinetics: the rate equation, order of reaction, and rate laws for zeroth, first, and second order reactions, temperature dependence of rate of reaction, catalysts, Fick's first law and steady-state diffusion |
-| **Keywords** | steric hindrance, cisplatin, first-order, second-order, zero-order, half-life, radioactive decay, reaction rate, chemical kinetics, rate of reaction, products, reactants, rate constant, rate equation, activation energy, Arrhenius equation, activated complex, decomposition reaction, nuclear decay, linearizing function, least-squares fitting, integral method, differential method, catalysis, reaction coordinate diagram, adsorb, desorb, selectivity, catalyst, inhibitor, diffusion, mass transport, mass flow rate, flux, Fick's first law, concentration gradient, diffusivity, concentration profile, oxidation, reduction |
-| **Chemical Substances** | dinitrogen pentoxide (N2O5), nitrogen dioxide (NO2), oxygen gas (O2), nitric oxide (NO), cisplatin (PtCl2(NH3)2), water (H2O), chloride (Cl\-), uranium-238 (238U), thorium-234 (234Th), helium (4He), carbon monoxide (CO), carbon dioxide (CO2), carbon (C), silicon (Si), boron (B), diborane (B2H6), hydrogen gas (H2), octane (C8H18), platinum (Pt), palladium (Pd), rhodium (Rh) |
-| **Applications** | cisplatin, radiocarbon dating, automobile catalytic converter, semiconductor wafer doping (Pentium), Hindenburg fire, corrosion prevention in automobile engines 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Modules**
+{{< tdclose >}}
+{{< tdopen >}}
+Reactions and Kinetics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Concepts**
+{{< tdclose >}}
+{{< tdopen >}}
+chemical kinetics: the rate equation, order of reaction, and rate laws for zeroth, first, and second order reactions, temperature dependence of rate of reaction, catalysts, Fick's first law and steady-state diffusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Keywords**
+{{< tdclose >}}
+{{< tdopen >}}
+steric hindrance, cisplatin, first-order, second-order, zero-order, half-life, radioactive decay, reaction rate, chemical kinetics, rate of reaction, products, reactants, rate constant, rate equation, activation energy, Arrhenius equation, activated complex, decomposition reaction, nuclear decay, linearizing function, least-squares fitting, integral method, differential method, catalysis, reaction coordinate diagram, adsorb, desorb, selectivity, catalyst, inhibitor, diffusion, mass transport, mass flow rate, flux, Fick's first law, concentration gradient, diffusivity, concentration profile, oxidation, reduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Chemical Substances**
+{{< tdclose >}}
+{{< tdopen >}}
+dinitrogen pentoxide (N2O5), nitrogen dioxide (NO2), oxygen gas (O2), nitric oxide (NO), cisplatin (PtCl2(NH3)2), water (H2O), chloride (Cl\-), uranium-238 (238U), thorium-234 (234Th), helium (4He), carbon monoxide (CO), carbon dioxide (CO2), carbon (C), silicon (Si), boron (B), diborane (B2H6), hydrogen gas (H2), octane (C8H18), platinum (Pt), palladium (Pd), rhodium (Rh)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Applications**
+{{< tdclose >}}
+{{< tdopen >}}
+cisplatin, radiocarbon dating, automobile catalytic converter, semiconductor wafer doping (Pentium), Hindenburg fire, corrosion prevention in automobile engines
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Prerequisites
 
@@ -42,15 +85,84 @@ Reading
 
 [Archived Lecture Notes #9 (PDF)]({{< baseurl >}}/resources/mit3_091scf09_aln09), Section 1
 
-| Book Chapters | Topics |
-| --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s14-07-the-kinetic-molecular-theory-o.html) 10.7, "The Kinetic Molecular Theory of Gases." | Molecular description of gases; Boltzmann distributions; the relationships between pressure, volume, and temperature; diffusion and effusion; rates of diffusion or effusion |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-01-factors-that-affect-reaction-r.html) 14.1, "Factors That Affect Reaction Rates." | Concentration effects; temperature effects; phase and surface area effects; solvent effects; catalyst effects |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-02-reaction-rates-and-rate-laws.html) 14.2, "Reaction Rates and Rate Laws." | Reaction rates; rate laws |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-03-methods-of-determining-reactio.html) 14.3, "Methods of Determining Reaction Orders." | Zeroth-order reactions; first-order reactions; second-order reactions; determining the rate law of a reaction |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-04-using-graphs-to-determine-rate.html) 14.4, "Using Graphs to Determine Rate Laws, Rate Constants, and Reaction Orders." | Graphing reaction concentration data to show reaction orders and rate constants; typical graphs for zeroth-, first-, and second-order reactions |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.1, "Thermally Activated Processes." | Arrhenius equation; activation energy; Maxwell-Boltzmann distribution; process mechanisms and rate-limiting steps |
-| [\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects." | Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expansion 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Book Chapters
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s14-07-the-kinetic-molecular-theory-o.html) 10.7, "The Kinetic Molecular Theory of Gases."
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular description of gases; Boltzmann distributions; the relationships between pressure, volume, and temperature; diffusion and effusion; rates of diffusion or effusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-01-factors-that-affect-reaction-r.html) 14.1, "Factors That Affect Reaction Rates."
+{{< tdclose >}}
+{{< tdopen >}}
+Concentration effects; temperature effects; phase and surface area effects; solvent effects; catalyst effects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-02-reaction-rates-and-rate-laws.html) 14.2, "Reaction Rates and Rate Laws."
+{{< tdclose >}}
+{{< tdopen >}}
+Reaction rates; rate laws
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-03-methods-of-determining-reactio.html) 14.3, "Methods of Determining Reaction Orders."
+{{< tdclose >}}
+{{< tdopen >}}
+Zeroth-order reactions; first-order reactions; second-order reactions; determining the rate law of a reaction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-04-using-graphs-to-determine-rate.html) 14.4, "Using Graphs to Determine Rate Laws, Rate Constants, and Reaction Orders."
+{{< tdclose >}}
+{{< tdopen >}}
+Graphing reaction concentration data to show reaction orders and rate constants; typical graphs for zeroth-, first-, and second-order reactions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.1, "Thermally Activated Processes."
+{{< tdclose >}}
+{{< tdopen >}}
+Arrhenius equation; activation energy; Maxwell-Boltzmann distribution; process mechanisms and rate-limiting steps
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[JS\]]({{< baseurl >}}/pages/syllabus/suggested-textbooks#js) 5.2, "Thermal Production of Point Defects."
+{{< tdclose >}}
+{{< tdopen >}}
+Activation energy of vacancies vs. interstitials; Arrhenius plot; thermal expansion
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Video
 -------------
@@ -74,12 +186,87 @@ Homework
 
 ### Homework Problems
 
-| \[saylor\] Sections | Conceptual | Numerical | Application |
-| --- | --- | --- | --- |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-03-methods-of-determining-reactio.html) 14.3, "Methods of Determining Reaction Orders." | none | 1, 2 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-04-using-graphs-to-determine-rate.html) 14.4, "Using Graphs to Determine Rate Laws, Rate Constants, and Reaction Orders." | none | 2 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-05-half-lives-and-radioactive-dec.html) 14.5, "Half-Lives and Radioactive Decay Kinetics." | none | 1, 3, 4 | none |
-| [\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-09-end-of-chapter-material.html) 14.9, "End-of-Chapter Material." | none | none | 11 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+\[saylor\] Sections
+{{< thclose >}}
+{{< thopen >}}
+Conceptual
+{{< thclose >}}
+{{< thopen >}}
+Numerical
+{{< thclose >}}
+{{< thopen >}}
+Application
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-03-methods-of-determining-reactio.html) 14.3, "Methods of Determining Reaction Orders."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-04-using-graphs-to-determine-rate.html) 14.4, "Using Graphs to Determine Rate Laws, Rate Constants, and Reaction Orders."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-05-half-lives-and-radioactive-dec.html) 14.5, "Half-Lives and Radioactive Decay Kinetics."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+1, 3, 4
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[\[Saylor\]](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/s18-09-end-of-chapter-material.html) 14.9, "End-of-Chapter Material."
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+none
+{{< tdclose >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Further Study
 -----------------
@@ -102,10 +289,71 @@ Lennon, John, and Paul McCartney. "Baby You Can Drive My Car." _Rubber Soul_. Pe
 
 ### Other OCW and OER Content
 
-| Content | Provider | Level | Notes |
-| --- | --- | --- | --- |
-| [5.60 Thermodynamics and Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008) | MIT OpenCourseWare | Undergraduate (elective) | [Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics) |
-| [Diffusion](http://www.doitpoms.ac.uk/tlplib/diffusion/index.php) | DoITPoMS | Undergraduate | &nbsp; |
-| [Diffusion](http://cnx.org/content/m1010/latest/) | Connexions | Undergraduate |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Content
+{{< thclose >}}
+{{< thopen >}}
+Provider
+{{< thclose >}}
+{{< thopen >}}
+Level
+{{< thclose >}}
+{{< thopen >}}
+Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[5.60 Thermodynamics and Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+MIT OpenCourseWare
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate (elective)
+{{< tdclose >}}
+{{< tdopen >}}
+[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Diffusion](http://www.doitpoms.ac.uk/tlplib/diffusion/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+DoITPoMS
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Diffusion](http://cnx.org/content/m1010/latest/)
+{{< tdclose >}}
+{{< tdopen >}}
+Connexions
+{{< tdclose >}}
+{{< tdopen >}}
+Undergraduate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/amorphous-materials/self-assessment-amorphous-materials) | [Next]({{< baseurl >}}/pages/reactions-and-kinetics/24-diffusion) »
