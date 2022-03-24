@@ -138,7 +138,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 9.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec3)
+[Lecture Slides (PDF - 9.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec3)
 
 [Periodic Table and Table of Constants]({{< baseurl >}}/pages/syllabus/suggested-textbooks#ref)
 

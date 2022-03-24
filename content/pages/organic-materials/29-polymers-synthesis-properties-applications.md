@@ -132,7 +132,7 @@ Lecture Video
 
 ### Resources
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec29)
+[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec29)
 
 ### Lecture Summary
 

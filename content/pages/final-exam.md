@@ -18,7 +18,7 @@ Final Exam
 
 [Final exam (PDF - 1.5MB)]({{< baseurl >}}/resources/mit3_091scf09_final)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final exam solution key (PDF - 4.4MB)]({{< baseurl >}}/resources/mit3_091scf09_final_sol)
+[Final exam solution key (PDF - 4.4MB)]({{< baseurl >}}/resources/mit3_091scf09_final_sol)
 
 **Congratulations!** You've completed 3.091SC Introduction to Solid State Chemistry.
 

@@ -293,7 +293,7 @@ Lehrer, T. _The Remains of Tom Lehrer_. Los Angeles, CA: Warner Archives/Rhino, 
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 9.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec3)
+[Lecture Slides (PDF - 9.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec3)
 
 
 {{< tdclose >}}
@@ -394,7 +394,7 @@ Miller, D. P. _Discovering Water: James Watt, Henry Cavendish and the Nineteenth
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec4)
+[Lecture Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec4)
 
 
 {{< tdclose >}}
@@ -477,7 +477,7 @@ Payne-Gaposchkin, Cecilia H. _Stars and Clusters_. Cambridge, MA: Harvard Univer
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec5)
+[Lecture Slides (PDF - 2.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec5)
 
 
 {{< tdclose >}}
@@ -647,7 +647,7 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec7)
+[Lecture Slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit3_091scf09_lec7)
 
 
 {{< tdclose >}}
@@ -918,7 +918,7 @@ Charles, Daniel. _Master Mind: The Rise and Fall of Fritz Haber, the Nobel Laure
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.9MB)]({{< baseurl >}}/resources/mit3_091scf09_lec9)
+[Lecture Slides (PDF - 2.9MB)]({{< baseurl >}}/resources/mit3_091scf09_lec9)
 
 
 {{< tdclose >}}
@@ -1219,7 +1219,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_s2_exam)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_s2_exam_sol)
+[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_s2_exam_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal55">}}
@@ -1245,7 +1245,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa2_supp)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_sa2_supp_sol)
+[Supplemental Exam Solutions Key (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_sa2_supp_sol)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1472,7 +1472,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_exam)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_exam_sol)
+[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_exam_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 [Clip 1: Exam 2, Problem 3]({{< baseurl >}}/resources/clip-1-exam-2-problem-3-1)
@@ -1482,7 +1482,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_supp)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_supp_sol)
+[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa3_supp_sol)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1815,7 +1815,7 @@ Lubar, Robert S. _Dali: The Salvador Dali Museum Collection_. Boston, MA: Bullfi
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 5.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec18)
+[Lecture Slides (PDF - 5.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec18)
 
 
 {{< tdclose >}}
@@ -1896,7 +1896,7 @@ Mozart, Wolfgang. "Rondo Alla Turca." _Piano Sonata no. 11 in A major_, K. 331.
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec19)
+[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec19)
 
 
 {{< tdclose >}}
@@ -2084,14 +2084,14 @@ SUPPLEMENTAL PROBLEMS
 
 [Quiz Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_quiz)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_quiz_sol)
+[Quiz Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_quiz_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 [Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_exam)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF - 1.5MB)]({{< baseurl >}}/resources/mit3_091scf09_sa4_exam_sol)
+[Exam Solutions Key (PDF - 1.5MB)]({{< baseurl >}}/resources/mit3_091scf09_sa4_exam_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal97">}}
@@ -2115,7 +2115,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa4_supp)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF - 1.1MB)]({{< baseurl >}}/resources/mit3_091scf09_sa4_supp_sol)
+[Supplemental Exam Solutions Key (PDF - 1.1MB)]({{< baseurl >}}/resources/mit3_091scf09_sa4_supp_sol)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -2252,7 +2252,7 @@ Chihuly, Dale. _Chihuly: Form From Fire_. Seattle, WA: University of Washington 
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec22)
+[Lecture Slides (PDF)]({{< baseurl >}}/resources/mit3_091scf09_lec22)
 
 
 {{< tdclose >}}
@@ -2450,7 +2450,7 @@ FOR FURTHER STUDY
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_lec23)
+[Lecture Slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit3_091scf09_lec23)
 
 
 {{< tdclose >}}
@@ -2549,7 +2549,7 @@ Lennon, John, and Paul McCartney. "Baby You Can Drive My Car." _Rubber Soul_. Pe
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec24)
+[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec24)
 
 
 {{< tdclose >}}
@@ -2651,7 +2651,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_exam)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_exam_sol)
+[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_exam_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal120">}}
@@ -2673,7 +2673,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_supp)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_supp_sol)
+[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa6_supp_sol)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -2737,7 +2737,7 @@ FOR FURTHER STUDY
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec25)
+[Lecture Slides (PDF - 1.3MB)]({{< baseurl >}}/resources/mit3_091scf09_lec25)
 
 
 {{< tdclose >}}
@@ -2810,7 +2810,7 @@ Chang, Kenneth. "[The Nature of Glass Remains Anything but Clear](http://www.nyt
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec26)
+[Lecture Slides (PDF - 2.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec26)
 
 
 {{< tdclose >}}
@@ -2918,7 +2918,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_exam)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_exam_sol)
+[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_exam_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -2934,7 +2934,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_supp)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_supp_sol)
+[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa7_supp_sol)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -3098,7 +3098,7 @@ The Beatles. "Polythene Pam." _Abbey Road_. Apple Records, 1969.
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec29)
+[Lecture Slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit3_091scf09_lec29)
 
 
 {{< tdclose >}}
@@ -3203,7 +3203,7 @@ _The Graduate_. Directed by M. Nichols. DVD. MGM, 1967.
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec30)
+[Lecture Slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit3_091scf09_lec30)
 
 
 {{< tdclose >}}
@@ -3276,7 +3276,7 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit3_091scf09_lec31)
+[Lecture Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit3_091scf09_lec31)
 
 
 {{< tdclose >}}
@@ -3349,9 +3349,9 @@ Michael Jackson. "Man in the Mirror." _Bad_. Epic Records, 1987.
 
 {{< /div-with-class >}}{{< div-with-class "toggle150">}}
 
-Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
+Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids.](http://dx.doi.org/10.1038/171737a0)" _Nature_ 171 (1953): 737-738. ([PDF](http://www.nature.com/nature/dna50/watsoncrick.pdf))
 
-Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
+Franklin, R., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate.](http://dx.doi.org/10.1038/171740a0)" _Nature_ 171 (1953): 740-741. ([PDF](http://www.nature.com/nature/dna50/franklingosling.pdf))
 
 Judson, Horace Freeland. _The Eighth Day of Creation: Makers of the Revolution in Biology._ 25th anniversary edition. Woodbury, NY: Cold Spring Harbor Laboratory Press, 1996. ISBN: 9780879694784.
 
@@ -3433,7 +3433,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_exam)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_exam_sol)
+[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa8_exam_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -3645,7 +3645,7 @@ Carter, Kelley. "[Absinthe flows again, more stylish than ever](http://www.usato
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture Slides (PDF - 1.9MB)]({{< baseurl >}}/resources/mit3_091scf09_lec35)
+[Lecture Slides (PDF - 1.9MB)]({{< baseurl >}}/resources/mit3_091scf09_lec35)
 
 
 {{< tdclose >}}
@@ -3725,7 +3725,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_exam)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_exam_sol)
+[Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_exam_sol)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -3741,7 +3741,7 @@ SUPPLEMENTAL PROBLEMS
 
 [Supplemental Exam Problems (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_supp)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_supp_sol)
+[Supplemental Exam Solutions Key (PDF)]({{< baseurl >}}/resources/mit3_091scf09_sa9_supp_sol)
 
 
 {{< tdclose >}}
@@ -3781,7 +3781,7 @@ FINAL EXAM AND SOLUTIONS
 
 [Final exam (PDF - 1.5MB)]({{< baseurl >}}/resources/mit3_091scf09_final)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final exam solution key (PDF - 4.4MB)]({{< baseurl >}}/resources/mit3_091scf09_final_sol)
+[Final exam solution key (PDF - 4.4MB)]({{< baseurl >}}/resources/mit3_091scf09_final_sol)
 
 
 {{< tdclose >}}
