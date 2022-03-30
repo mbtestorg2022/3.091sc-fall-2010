@@ -327,9 +327,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2)
+[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-2)
 
-[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-5)
+[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-5)
 
 
 {{< tdclose >}}

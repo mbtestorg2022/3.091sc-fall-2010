@@ -96,7 +96,7 @@ Before starting this session, you should be familiar with:
 
 *   Semiconductor properties and behavior ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
 *   Basic geometry in 2D and 3D
-*   Bond angles and lengths in molecules ([Session 11](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules))
+*   Bond angles and lengths in molecules ({{% resource_link "42a1890e-d13b-2cc6-5e88-6c8f69ce55f5" "Session 11" %}})
 
 ### Looking Ahead
 

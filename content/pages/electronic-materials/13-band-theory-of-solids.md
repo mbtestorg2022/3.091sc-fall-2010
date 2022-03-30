@@ -62,7 +62,7 @@ photovoltaics, photosensors, light-emitting diodes (LEDs), temperature sensors
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with prior topics from Structure of the Atom ([Session 1]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) through [Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)) and Bonding & Molecules ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces)), specifically:
+Before starting this session, you should be familiar with prior topics from Structure of the Atom ([Session 1]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) through {{% resource_link "d0470d3e-350a-e01c-66ab-ad1825f65352" "Session 7" %}}) and Bonding & Molecules ({{% resource_link "6d1cbe4b-9eab-35b6-b30c-2e7619a39c79" "Session 8" %}} through {{% resource_link "009937ee-55a4-84c8-160b-5248e1f70793" "Session 12" %}}), specifically:
 
 *   Electron orbital filling order, energy levels, and the Schrödinger equation
 *   Linear combination and hybridization of orbitals
@@ -231,7 +231,7 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors)
+Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-34-bonding-in-metals-and-semiconductors)
 {{< tdclose >}}
 
 {{< trclose >}}

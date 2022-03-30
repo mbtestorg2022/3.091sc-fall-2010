@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: af4b0715-adb4-b3d3-3e69-af564b71c30e
 resourcetype: Image
 title: barriga.jpg
 uid: 1eb4d74a-f4fb-afbc-f947-e1c526289c2c

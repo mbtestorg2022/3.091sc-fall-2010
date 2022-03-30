@@ -137,7 +137,7 @@ Brown, T. L., H. E. Lemay, and B. E. Bursten. _Chemistry: The Central Science_. 
 
 {{< /div-with-class >}}{{< div-with-class "toggle4">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 1: The Importance of Chemical Principles](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-1)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 1: The Importance of Chemical Principles](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-1)
 
 {{< /div-with-class >}}
 {{< tdclose >}}
@@ -256,7 +256,7 @@ Lehrer, T. _The Remains of Tom Lehrer_. Los Angeles, CA: Warner Archives/Rhino, 
 
 {{< /div-with-class >}}{{< div-with-class "toggle10">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2), [Lecture 9: Periodic Trends](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-9), and [Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-2), [Lecture 9: Periodic Trends](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-9), and [Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-10)
 
 [Stoichiometry Tutorial](http://www.chemcollective.org/stoich/reaction_stoi.php)
 
@@ -363,7 +363,7 @@ Miller, D. P. _Discovering Water: James Watt, Henry Cavendish and the Nineteenth
 
 {{< /div-with-class >}}{{< div-with-class "toggle15">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2) and [Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-5)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-2) and [Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-5)
 
 [The Bohr Model](http://hyperphysics.phy-astr.gsu.edu/hbase/bohrcn.html)
 
@@ -444,7 +444,7 @@ Payne-Gaposchkin, Cecilia H. _Stars and Clusters_. Cambridge, MA: Harvard Univer
 
 {{< /div-with-class >}}{{< div-with-class "toggle20">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-5)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-5)
 
 [The Hydrogen Atom](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/hydcn.html)
 
@@ -529,7 +529,7 @@ Dick, Harold G. _The Golden Age of the Great Passenger Airships, Graf Zeppelin a
 
 {{< /div-with-class >}}{{< div-with-class "toggle26">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 6: Hydrogen Atom Wavefunctions](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-6)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 6: Hydrogen Atom Wavefunctions](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-6)
 
 [Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Hydrogen Atom](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/hydcn.html)
 
@@ -614,7 +614,7 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 
 › _Other OCW and OER Content_
 
-{{< /div-with-class >}}{{< div-with-class "toggle31">}}[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-3) and [Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-4)
+{{< /div-with-class >}}{{< div-with-class "toggle31">}}[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-3) and [Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-4)
 
 [Atomic Structure](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/atomstructcon.html), [The Schrödinger Equation](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/schrcn.html)
 
@@ -624,7 +624,7 @@ Powers, Thomas. _Heisenberg's War: The Secret History of the German Bomb_. New Y
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Aufbau Principle; Photoelectron Spectroscopy](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)
+{{% resource_link "d0470d3e-350a-e01c-66ab-ad1825f65352" "The Aufbau Principle; Photoelectron Spectroscopy" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal32">}}
@@ -790,7 +790,7 @@ FOR FURTHER STUDY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Ionic Crystals; Born-Haber Cycle](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle)
+{{% resource_link "6d1cbe4b-9eab-35b6-b30c-2e7619a39c79" "Ionic Crystals; Born-Haber Cycle" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal35">}}
@@ -877,7 +877,7 @@ Charles, Daniel. _Master Mind: The Rise and Fall of Fritz Haber, the Nobel Laure
 
 {{< /div-with-class >}}{{< div-with-class "toggle39">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10), [Lecture 11: Lewis Structures](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-11), and [Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-12)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-10), [Lecture 11: Lewis Structures](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-11), and [Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-12)
 
 [Chemical Bonds](http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/bondcon.html)
 
@@ -887,7 +887,7 @@ Charles, Daniel. _Master Mind: The Rise and Fall of Fritz Haber, the Nobel Laure
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Drawing Lewis Structures](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures)
+{{% resource_link "80b4e5be-5325-9c74-0eb6-068392cf19cb" "Drawing Lewis Structures" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal40">}}
@@ -970,7 +970,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 
 {{< /div-with-class >}}{{< div-with-class "toggle44">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-12), [Lecture 13: Polar Covalent Bonds and VSEPR Theory](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-13), and [Lecture 14: Molecular Orbit Theory](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-14)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-12), [Lecture 13: Polar Covalent Bonds and VSEPR Theory](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-13), and [Lecture 14: Molecular Orbit Theory](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-14)
 
 {{< /div-with-class >}}
 {{< tdclose >}}
@@ -978,7 +978,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Hybridized & Molecular Orbitals; Paramagnetism](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/10.-hybridized-molecular-orbitals-paramagnetism)
+{{% resource_link "f3720df7-44c6-c811-bba3-3f83d3053ffd" "Hybridized & Molecular Orbitals; Paramagnetism" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal45">}}
@@ -1035,7 +1035,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 
 {{< /div-with-class >}}{{< div-with-class "toggle47">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 14: Molecular Orbital Theory](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-14) and [Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-15)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 14: Molecular Orbital Theory](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-14) and [Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-15)
 
 {{< /div-with-class >}}
 
@@ -1045,7 +1045,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Shapes of Molecules](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules)
+{{% resource_link "42a1890e-d13b-2cc6-5e88-6c8f69ce55f5" "The Shapes of Molecules" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal165">}}
@@ -1090,7 +1090,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 
 {{< /div-with-class >}}{{< div-with-class "toggle49">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-15) and [Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-16)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-15) and [Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-16)
 
 {{< /div-with-class >}}
 {{< tdclose >}}
@@ -1098,7 +1098,7 @@ Molina, Mario J. and Rowland, F. S. "[Stratospheric sink for chlorofluoromethane
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Intermolecular Forces](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces)
+{{% resource_link "009937ee-55a4-84c8-160b-5248e1f70793" "Intermolecular Forces" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal50">}}
@@ -1165,9 +1165,9 @@ Israelachvili, Jacob. _Intermolecular and Surface Forces_. New York, NY: Academi
 
 [Intermolecular Forces - Grade 11](http://cnx.org/content/m35864/latest/)
 
-[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005): Starts - 25:15 in [Lecture 16: Intermolecular Interactions](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-16-intermolecular-interactions) and End - 38:15 in [Lecture 17: Polarizability](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-17-polarizability)
+[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005): Starts - 25:15 in [Lecture 16: Intermolecular Interactions](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-16-intermolecular-interactions) and End - 38:15 in [Lecture 17: Polarizability](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-17-polarizability)
 
-[7.012 Introduction to Biology](/courses/7-012-introduction-to-biology-fall-2004): [Lecture 2: Biochemistry 1](/courses/7-012-introduction-to-biology-fall-2004/pages/video-lectures/lecture-2-biochemistry-1)
+[7.012 Introduction to Biology](/courses/7-012-introduction-to-biology-fall-2004): [Lecture 2: Biochemistry 1](/courses/7-012-introduction-to-biology-fall-2004/resources/lecture-2-biochemistry-1)
 
 {{< /div-with-class >}}
 {{< tdclose >}}
@@ -1347,7 +1347,7 @@ Heitler, Walter, and Fritz London. "[Wechselwirkung neutraler Atome und homöopo
 
 [Introduction to Semiconductors](http://www.doitpoms.ac.uk/tlplib/semiconductors/index.php): "[Introduction to Energy Bands](http://www.doitpoms.ac.uk/tlplib/semiconductors/energy_band_intro.php)."
 
-[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005): Starts - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors)
+[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005): Starts - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-34-bonding-in-metals-and-semiconductors)
 
 {{< /div-with-class >}}
 {{< tdclose >}}
@@ -1418,7 +1418,7 @@ The resources listed below are selected from a wide variety of sites covering se
 
 [Introduction to Semiconductors](http://cnx.org/content/m1001/latest/), [Doped Semiconductors](http://cnx.org/content/m1002/latest/)
 
-[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005): [Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-14-distribution-molecular-energies) and Starts 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](http://ocw2.mit.edu/courses/chemistry/5-112-principles-of-chemical-science-fall-2005/video-lectures/lecture-34-bonding-in-metals-and-semiconductors)
+[5.112 Principles of Chemical Science](/courses/5-112-principles-of-chemical-science-fall-2005): [Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-14-distribution-molecular-energies) and Starts 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](http://ocw2.mit.edu/courses/chemistry/5-112-principles-of-chemical-science-fall-2005/video-lectures/lecture-34-bonding-in-metals-and-semiconductors)
 
 [6.012 Microelectronic Devices and Circuits](/courses/6-012-microelectronic-devices-and-circuits-fall-2005): [Spring 2009](/courses/6-012-microelectronic-devices-and-circuits-spring-2009), [Fall 2009](/courses/6-012-microelectronic-devices-and-circuits-fall-2009)
 
@@ -2221,7 +2221,7 @@ Chihuly, Dale. _Chihuly: Form From Fire_. Seattle, WA: University of Washington 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Engineering Glass Properties; Introduction to Kinetics](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics)
+{{% resource_link "593608f5-1309-0383-9a58-fb9a2fb6843a" "Engineering Glass Properties; Introduction to Kinetics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< div-with-class "reveal102">}}
@@ -2318,7 +2318,7 @@ Chambers, Joe, and Willie Chambers. "Time Has Come Today." _The Time Has Come_. 
 
 [Fracture of Glass](http://www.doitpoms.ac.uk/tlplib/BD5/index.php)
 
-[5.60 Thermodynamics and Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008): [Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics)
+[5.60 Thermodynamics and Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008): [Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/resources/lecture-30-introduction-to-reaction-kinetics)
 
 {{< /div-with-class >}}
 {{< tdclose >}}
@@ -2510,7 +2510,7 @@ Lennon, John, and Paul McCartney. "Baby You Can Drive My Car." _Rubber Soul_. Pe
 
 {{< /div-with-class >}}{{< div-with-class "toggle114">}}
 
-[5.60 Thermodynamics and Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008): [Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics)
+[5.60 Thermodynamics and Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008): [Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/resources/lecture-30-introduction-to-reaction-kinetics)
 
 [Diffusion](http://www.doitpoms.ac.uk/tlplib/diffusion/index.php)
 
@@ -2866,7 +2866,7 @@ Brandis, Kerry. [_Acid-Base Physiology_](http://www.anaesthesiamcq.com/AcidBaseB
 
 {{< /div-with-class >}}{{< div-with-class "toggle129">}}
 
-[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 21: Acid-Base Equilibrium](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-21) and [Lecture 22: Chemical and Biological Buffers](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-22)
+[5.111 Principles of Chemical Science](/courses/5-111-principles-of-chemical-science-fall-2008): [Lecture 21: Acid-Base Equilibrium](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-21) and [Lecture 22: Chemical and Biological Buffers](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-22)
 
 [Acid-Base Equilibrium](http://cnx.org/content/m12591/latest/)
 

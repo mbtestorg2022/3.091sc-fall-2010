@@ -350,11 +350,11 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-2)
+[Lecture 2: Discovery of Electron and Nucleus](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-2)
 
-[Lecture 9: Periodic Trends](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-9)
+[Lecture 9: Periodic Trends](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-9)
 
-[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10)
+[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-10)
 
 
 {{< tdclose >}}

@@ -62,7 +62,7 @@ organization of the modern periodic table, electron-beam welding, lead shielding
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with topics from the first module, Structure of the Atom ([Session 1]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) through [Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)), especially:
+Before starting this session, you should be familiar with topics from the first module, Structure of the Atom ([Session 1]({{< baseurl >}}/pages/structure-of-the-atom/1-introduction-to-solid-state-chemistry) through {{% resource_link "d0470d3e-350a-e01c-66ab-ad1825f65352" "Session 7" %}}), especially:
 
 *   Contents and organization of the periodic table
 *   The plum-pudding and nuclear models of the atom

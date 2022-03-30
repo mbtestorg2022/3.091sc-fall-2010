@@ -295,7 +295,7 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: The Importance of Chemical Principles](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-1)
+[Lecture 1: The Importance of Chemical Principles](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-1)
 {{< tdclose >}}
 
 {{< trclose >}}

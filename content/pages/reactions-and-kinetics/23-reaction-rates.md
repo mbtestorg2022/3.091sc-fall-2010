@@ -64,7 +64,7 @@ cisplatin, radiocarbon dating, automobile catalytic converter, semiconductor waf
 
 Before starting this session, you should be familiar with:
 
-*   [Session 22: Introduction to Kinetics (second part)](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics)
+*   {{% resource_link "593608f5-1309-0383-9a58-fb9a2fb6843a" "Session 22: Introduction to Kinetics (second part)" %}}
 *   Derivative and integral notation, logarithms, fitting a curve to data
 *   Doping of semiconductors and thermal excitation ([Session 14]({{< baseurl >}}/pages/electronic-materials/14-semiconductors))
 
@@ -319,7 +319,7 @@ MIT OpenCourseWare
 Undergraduate (elective)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/pages/video-lectures/lecture-30-introduction-to-reaction-kinetics)
+[Lecture 30: Introduction to Reaction Kinetics](/courses/5-60-thermodynamics-kinetics-spring-2008/resources/lecture-30-introduction-to-reaction-kinetics)
 {{< tdclose >}}
 
 {{< trclose >}}

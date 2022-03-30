@@ -325,11 +325,11 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-12)
+[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-12)
 
-[Lecture 13: Polar Covalent Bonds and VSEPR Theory](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-13)
+[Lecture 13: Polar Covalent Bonds and VSEPR Theory](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-13)
 
-[Lecture 14: Molecular Orbit Theory](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-14)
+[Lecture 14: Molecular Orbit Theory](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-14)
 
 
 {{< tdclose >}}

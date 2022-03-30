@@ -214,9 +214,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-15)
+[Lecture 15: Valence Bond Theory and Hybridization](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-15)
 
-[Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-16)
+[Lecture 16: Thermochemistry](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-16)
 
 
 {{< tdclose >}}

@@ -241,7 +241,7 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-5)
+[Lecture 5: Hydrogen Atom Energy Levels](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-5)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -6,7 +6,7 @@ title: 21. Introduction to Glasses
 uid: 1d01a4a6-fa92-2854-cead-1f61b1189649
 ---
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics) »
+« [Previous]({{< baseurl >}}/pages/amorphous-materials) | {{% resource_link "593608f5-1309-0383-9a58-fb9a2fb6843a" "Next" %}} »
 
 Session Overview
 ----------------
@@ -64,7 +64,7 @@ bottles, jars, food and beverage containers, windows, glass cookware, plastic wr
 
 Before starting this session, you should be familiar with:
 
-*   Shapes of molecules and factors affecting their mobility ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces))
+*   Shapes of molecules and factors affecting their mobility ({{% resource_link "6d1cbe4b-9eab-35b6-b30c-2e7619a39c79" "Session 8" %}} through {{% resource_link "009937ee-55a4-84c8-160b-5248e1f70793" "Session 12" %}})
 *   Structure, properties, and methods of characterizing crystals ([Session 15]({{< baseurl >}}/pages/crystalline-materials/15-introduction-to-crystallography) through [Session 20]({{< baseurl >}}/pages/crystalline-materials/20-line-interface-and-bulk-defects))
 
 ### Learning Objectives
@@ -191,4 +191,4 @@ Undergraduate
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/amorphous-materials) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/amorphous-materials/22.-engineering-glass-properties-introduction-to-kinetics) »
+« [Previous]({{< baseurl >}}/pages/amorphous-materials) | {{% resource_link "593608f5-1309-0383-9a58-fb9a2fb6843a" "Next" %}} »

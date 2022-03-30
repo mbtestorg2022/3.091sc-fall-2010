@@ -64,7 +64,7 @@ pickling, wine, coal-fired power plant, acid rain, sulfur dioxide scrubber
 
 Before starting this session, you should be familiar with:
 
-*   the Molecules and Bonding module ([Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) through [Session 12](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/12.-intermolecular-forces))
+*   the Molecules and Bonding module ({{% resource_link "d0470d3e-350a-e01c-66ab-ad1825f65352" "Session 7" %}} through {{% resource_link "009937ee-55a4-84c8-160b-5248e1f70793" "Session 12" %}})
 *   Solutions ([Session 25]({{< baseurl >}}/pages/aqueous-solutions/25-introduction-to-aqueous-solutions))
 
 ### Learning Objectives
@@ -328,9 +328,9 @@ Undergraduate (first-year)
 
 For an alternative treatment of many topics in this session (e.g. acid-base models, pH, equilibrium, acid strength, reaction problems), see:
 
-[Lecture 21: Acid-Base Equilibrium](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-21)
+[Lecture 21: Acid-Base Equilibrium](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-21)
 
-[Lecture 22: Chemical and Biological Buffers](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-22)
+[Lecture 22: Chemical and Biological Buffers](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-22)
 
 
 {{< tdclose >}}

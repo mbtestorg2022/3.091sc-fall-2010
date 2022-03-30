@@ -6,7 +6,7 @@ title: 6. Particle-Wave Duality
 uid: acd5af93-6551-c69a-d7d6-8b73d9226daa
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) »
+« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) | {{% resource_link "d0470d3e-350a-e01c-66ab-ad1825f65352" "Next" %}} »
 
 Session Overview
 ----------------
@@ -68,7 +68,7 @@ Before starting this session, you should be familiar with:
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the Aufbau principle and photoelectron spectroscopy ([Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy)).
+Prof. Sadoway discusses the Aufbau principle and photoelectron spectroscopy ({{% resource_link "d0470d3e-350a-e01c-66ab-ad1825f65352" "Session 7" %}}).
 
 ### Learning Objectives
 
@@ -253,9 +253,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-3)
+[Lecture 3: Wave-Particle Duality of Light](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-3)
 
-[Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-4)
+[Lecture 4: Wave-Particle Duality of Matter](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-4)
 
 
 {{< tdclose >}}
@@ -279,4 +279,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy) »
+« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/5-electron-shell-model-quantum-numbers) | {{% resource_link "d0470d3e-350a-e01c-66ab-ad1825f65352" "Next" %}} »

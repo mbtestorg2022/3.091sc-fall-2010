@@ -6,7 +6,7 @@ title: 12. Intermolecular Forces
 uid: 009937ee-55a4-84c8-160b-5248e1f70793
 ---
 
-« [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »
+« {{% resource_link "42a1890e-d13b-2cc6-5e88-6c8f69ce55f5" "Previous" %}} | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »
 
 Session Overview
 ----------------
@@ -62,7 +62,7 @@ liquid water supports life; methane sea on Titan; states of hydrocarbons at STP
 
 ### Prerequisites
 
-Before starting this session, you should be familiar with prior topics in Bonding & Molecules ([Session 8](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/8.-ionic-crystals-born-haber-cycle) onwards), especially:
+Before starting this session, you should be familiar with prior topics in Bonding & Molecules ({{% resource_link "6d1cbe4b-9eab-35b6-b30c-2e7619a39c79" "Session 8" %}} onwards), especially:
 
 *   Periodic trends in electronegativity, atomic radius, and valence energy
 *   The probability distribution of the electron in an atomic orbital
@@ -255,9 +255,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-Start - 25:15 in [Lecture 16: Intermolecular Interactions](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-16-intermolecular-interactions)
+Start - 25:15 in [Lecture 16: Intermolecular Interactions](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-16-intermolecular-interactions)
 
-End - 38:15 in [Lecture 17: Polarizability](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-17-polarizability)
+End - 38:15 in [Lecture 17: Polarizability](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-17-polarizability)
 
 
 {{< tdclose >}}
@@ -274,11 +274,11 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: Biochemistry 1](/courses/7-012-introduction-to-biology-fall-2004/pages/video-lectures/lecture-2-biochemistry-1)
+[Lecture 2: Biochemistry 1](/courses/7-012-introduction-to-biology-fall-2004/resources/lecture-2-biochemistry-1)
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules) | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »
+« {{% resource_link "42a1890e-d13b-2cc6-5e88-6c8f69ce55f5" "Previous" %}} | [Next]({{< baseurl >}}/pages/bonding-and-molecules/self-assessment) »

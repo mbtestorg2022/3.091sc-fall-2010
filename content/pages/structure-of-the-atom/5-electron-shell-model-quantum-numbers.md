@@ -258,7 +258,7 @@ MIT OpenCourseWare
 Undergraduate (first-year)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Hydrogen Atom Wavefunctions](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-6)
+[Lecture 6: Hydrogen Atom Wavefunctions](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-6)
 {{< tdclose >}}
 
 {{< trclose >}}

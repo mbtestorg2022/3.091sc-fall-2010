@@ -6,7 +6,7 @@ title: 8. Ionic Crystals; Born-Haber Cycle
 uid: 6d1cbe4b-9eab-35b6-b30c-2e7619a39c79
 ---
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »
+« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | {{% resource_link "80b4e5be-5325-9c74-0eb6-068392cf19cb" "Next" %}} »
 
 Session Overview
 ----------------
@@ -64,11 +64,11 @@ design of thermal abrasion resistance materials, design of inert anode materials
 
 Before starting this session, you should be familiar with:
 
-*   Octet stability and what it means in terms of shell filling; ionic bonding and its formation as a result of Coulombic attraction between a cation and an anion ([Session 7](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/structure-of-the-atom/7.-the-aufbau-principle-photoelectron-spectroscopy))
+*   Octet stability and what it means in terms of shell filling; ionic bonding and its formation as a result of Coulombic attraction between a cation and an anion ({{% resource_link "d0470d3e-350a-e01c-66ab-ad1825f65352" "Session 7" %}})
 
 ### Looking Ahead
 
-Prof. Sadoway discusses the shortcomings of ionic bonding and Lewis's concept of shell filling by electron sharing including the Lewis dot notation ([Session 9](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures)); and returns to the valence shell electron pair repulsion (VSEPR) model in [Session 11: The Shapes of Molecules](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/11.-the-shapes-of-molecules).
+Prof. Sadoway discusses the shortcomings of ionic bonding and Lewis's concept of shell filling by electron sharing including the Lewis dot notation ({{% resource_link "80b4e5be-5325-9c74-0eb6-068392cf19cb" "Session 9" %}}); and returns to the valence shell electron pair repulsion (VSEPR) model in {{% resource_link "42a1890e-d13b-2cc6-5e88-6c8f69ce55f5" "Session 11: The Shapes of Molecules" %}}.
 
 ### Learning Objectives
 
@@ -324,11 +324,11 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-10)
+[Lecture 10: Covalent Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-10)
 
-[Lecture 11: Lewis Structures](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-11)
+[Lecture 11: Lewis Structures](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-11)
 
-[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/pages/video-lectures/lecture-12)
+[Lecture 12: Ionic Bonds](/courses/5-111-principles-of-chemical-science-fall-2008/resources/lecture-12)
 
 
 {{< tdclose >}}
@@ -352,4 +352,4 @@ High school
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | [Next](/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/bonding-and-molecules/9.-drawing-lewis-structures) »
+« [Previous]({{< baseurl >}}/pages/structure-of-the-atom/self-assessment-structure-of-the-atom) | {{% resource_link "80b4e5be-5325-9c74-0eb6-068392cf19cb" "Next" %}} »

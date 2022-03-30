@@ -4,7 +4,7 @@ title: Final Exam
 uid: 1510a47e-e45c-9c55-4ebc-44d837db76c0
 ---
 
-« [Previous]({{< baseurl >}}/pages/solid-solutions/self-assessment-solid-solutions) | [Next](./courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/resource-index) »
+« [Previous]({{< baseurl >}}/pages/solid-solutions/self-assessment-solid-solutions) | {{% resource_link "4ea8b3b8-9024-9860-0ee4-f20d41fcc23c" "Next" %}} »
 
 Study Materials
 ---------------
@@ -26,4 +26,4 @@ Did this course have everything you needed to learn the subject? Are there ways 
 
 Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
 
-« [Previous]({{< baseurl >}}/pages/solid-solutions/self-assessment-solid-solutions) | [Next](./courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/resource-index) »
+« [Previous]({{< baseurl >}}/pages/solid-solutions/self-assessment-solid-solutions) | {{% resource_link "4ea8b3b8-9024-9860-0ee4-f20d41fcc23c" "Next" %}} »

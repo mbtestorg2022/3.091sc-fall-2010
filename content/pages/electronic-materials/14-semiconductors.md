@@ -244,9 +244,9 @@ Undergraduate (first-year)
 {{< tdopen >}}
 
 
-[Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-14-distribution-molecular-energies) (Maxwell-Boltzmann statistics)
+[Lecture 14: Distribution of Molecular Energies](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-14-distribution-molecular-energies) (Maxwell-Boltzmann statistics)
 
-Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/pages/video-lectures/lecture-34-bonding-in-metals-and-semiconductors) (semiconductors)
+Start - 8:15 in [Lecture 34: Bonding in Metals and Semiconductors](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture-34-bonding-in-metals-and-semiconductors) (semiconductors)
 
 
 {{< tdclose >}}
